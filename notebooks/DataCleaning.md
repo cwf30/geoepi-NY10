@@ -277,11 +277,4 @@ SeqIO.write(high_quality_nt_polyproteins, high_quality_poly_protein_path, "fasta
 SeqIO.write(high_quality_aa_polyproteins, high_quality_poly_protein_translated_path, "fasta")
 ```
 
-
-
-
-    1830
-
-
-
 fin.
