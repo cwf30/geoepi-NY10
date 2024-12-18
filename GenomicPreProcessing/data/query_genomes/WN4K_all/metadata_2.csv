@@ -1,0 +1,824 @@
+,scripps_id,shipment,recieved,sample_id,collection_date,species,sample_type,address,country,state,county,city,zip,latitude,longitude,pcr_ct,cdna,pcr,library_prep,sequenced,#_of_reads,%_cds_covered,mean_coverage_depth,seq._complete?,gap_primers,computed_location,host
+0,W001,1,yes,208-0677,10/2/07,American Crow,Bilateral ocular sample,12133 Rockcrest Rd,USA,CA,SanDiego,Lakeside,92040.0,32.846109000000006,-116.93042700000001,17.8,yes,yes,yes,yes,56643.0,100.0,766.7,Y,,sandiego,bird
+1,W002,1,yes,208-0953,10/2/07,American Crow,Bilateral ocular sample,807 S Mollison Avenue,USA,CA,SanDiego,El_Cajon,92020.0,32.785812,-116.95003999999999,30.9,yes,yes,yes,yes,582109.0,100.0,4926.2,Y,,sandiego,bird
+2,W003,1,yes,209-0632,8/18/08,American Crow,Bilateral ocular sample,664 Ecken Rd.,USA,CA,SanDiego,El_Cajon,92020.0,32.783557,-116.96956200000001,22.5,yes,yes,yes,yes,175936.0,100.0,2689.8,Y,,sandiego,bird
+3,W004,1,yes,209-2652,5/13/09,American Crow,Bilateral ocular sample,11480 N Torrey Pines Rd,USA,CA,SanDiego,La_Jolla,92037.0,32.904429,-117.24343300000001,24.8,yes,yes,yes,yes,51093.0,100.0,676.9,Y,,sandiego,bird
+4,W005,1,yes,W12-0618,10/29/12,American Crow,Bilateral ocular sample,6315 Hartley Dr.,USA,CA,SanDiego,San_Diego,92037.0,32.828063,-117.25828600000001,29.9,yes,yes,yes,yes,194255.0,100.0,2756.8,Y,,sandiego,bird
+5,W006,1,yes,W13-0060,7/10/13,American Crow,Bilateral ocular sample,11437 Rocoso Rd,USA,CA,SanDiego,Lakeside,92040.0,32.884864,-116.9462,25.6,yes,yes,yes,yes,30941.0,100.0,321.5,Y,,sandiego,bird
+6,W007,1,yes,W13-0064,7/23/13,American Crow,Bilateral ocular sample,2928 Levante St.,USA,CA,SanDiego,Carlsbad,92009.0,33.080931,-117.24713700000001,30.9,yes,yes,yes,yes,38934.0,100.0,545.6,Y,,sandiego,bird
+7,W008,1,yes,W14-0111,10/7/14,American Crow,Bilateral ocular sample,1704 Rachael Ave.,USA,CA,SanDiego,National_City,91950.0,32.677111,-117.071316,18,yes,yes,yes,yes,279386.0,100.0,3433.5,Y,,sandiego,bird
+8,W009,1,yes,15-B-0414-B,10/2/15,American Crow,Bilateral ocular sample,8865 Spectrum Center Blvd,USA,CA,SanDiego,San_Diego,92123.0,32.826815,-117.1420345,20.9,yes,yes,yes,yes,326757.0,100.0,4288.9,Y,,sandiego,bird
+9,W010,1,yes,16-B-0935-B,8/15/16,American Crow,Bilateral ocular sample,621 Del Mar Ave,USA,CA,SanDiego,Chula_Vista,91910.0,32.630931,-117.072848,18.7,yes,yes,yes,yes,37360.0,100.0,400.5,Y,,sandiego,bird
+10,W011,1,yes,209-1616 T,12/8/08,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",16608 Wikiup Rd,USA,CA,SanDiego,Ramona,92065.0,33.015797,-116.80153700000001,22.7,yes,yes,yes,yes,18640.0,100.0,167.2,Y,,sandiego,bird
+11,W012,1,yes,W14-0125 T,10/28/14,Hawk,"BIC, brain, heart, spleen, kidney",12068 Pastoral Rd.,USA,CA,SanDiego,San_Diego,92128.0,33.015997999999996,-117.06995500000001,23.5,yes,yes,yes,yes,470312.0,100.0,4947.0,Y,,sandiego,bird
+12,W013,1,yes,16-B-0830-B,6/30/16,Hawk,"BIC, brain, heart, spleen, kidney",12912 Camino Del Valle,USA,CA,SanDiego,Poway,92064.0,33.014608,-117.053081,19.6,yes,yes,yes,yes,56098.0,100.0,707.2,Y,,sandiego,bird
+13,W014,1,yes,M14-0148,10/31/14,Culex quinquefasciatus,whole mosquito bodies,5797 CHESAPEAKE CT,USA,CA,SanDiego,San_Diego,92123.0,32.838836,-117.129057,28.5,yes,yes,yes,yes,477850.0,100.0,4593.6,Y,,sandiego,mosquito
+14,W015,1,yes,15-Q-0217,8/21/15,Culex quinquefasciatus,whole mosquito bodies,W 32nd St,USA,CA,SanDiego,National_City,91950.0,32.652477600000005,-117.10720959999999,20.9,yes,yes,yes,yes,517854.0,100.0,4884.7,Y,,sandiego,mosquito
+15,W016,1,yes,16-Q-0503,5/16/16,Culex tarsalis,whole mosquito bodies,Carmel Valley Rd,USA,CA,SanDiego,Del_Mar,92037.0,0.0,0.0,19.5,yes,yes,yes,yes,212786.0,100.0,2980.0,Y,,sandiego,mosquito
+16,W017,2,yes,208-0907,3/19/07,Jaybird,Bilateral ocular sample,5820 Meade Ave,USA,CA,SanDiego,San_Diego,92115.0,32.756999,-117.07222,,yes,yes,yes,yes,696078.0,100.0,4685.6,Y,,sandiego,bird
+17,W018,2,yes,208-0945,3/19/07,American Crow,Bilateral ocular sample,753 Sherwood Drive,USA,CA,SanDiego,Oceanside,92054.0,33.238741999999995,-117.335044,,yes,yes,yes,yes,202067.0,99.31,2721.4,Y,,sandiego,bird
+18,W019,2,yes,208-0953,10/2/07,American Crow,Bilateral ocular sample,807 S Mollison Avenue,USA,CA,SanDiego,El_Cajon,92020.0,32.785812,-116.95003999999999,30.9,yes,yes,yes,yes,149931.0,92.91,2139.7,,,sandiego,bird
+19,W020,2,yes,208-0943,10/2/07,American Crow,Bilateral ocular sample,4244 Half Moon Bay Way,USA,CA,SanDiego,Oceanside,92056.0,33.2457967,-117.32807849999999,17.2,yes,yes,yes,yes,355132.0,100.0,4127.6,Y,,sandiego,bird
+20,W021,2,yes,208-1201,10/25/07,Hawk,"BIC, brain, heart, spleen, kidney",,USA,CA,SanDiego,,,0.0,0.0,,yes,yes,yes,yes,599051.0,98.36,4354.6,Y,,sandiego,bird
+21,W022,2,yes,208-2252,2/6/08,American Crow,Bilateral ocular sample,9204 Bellagio Rd.,USA,CA,SanDiego,Santee,92071.0,32.855393,-117.00428400000001,,yes,yes,yes,yes,149391.0,100.0,2188.7,Y,,sandiego,bird
+22,W023,2,yes,208-2284,2/6/08,American Crow,Bilateral ocular sample,1809 S. Juniper St.,USA,CA,SanDiego,Escondido,92025.0,33.105135,-117.0673,,yes,yes,yes,yes,244.0,82.85,3.0,,,sandiego,bird
+23,W024,2,yes,208-2407,3/19/08,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",6306 Peach Way,USA,CA,SanDiego,San_Diego,92130.0,32.960657,-117.18156,33.8,yes,yes,yes,yes,,,,,,sandiego,bird
+24,W025,2,yes,208-2568,4/16/08,American Crow,Bilateral ocular sample,5th and Huffstatler,USA,CA,SanDiego,Fallbrook,92028.0,33.413920000000005,-117.15086399999998,,yes,yes,yes,yes,1726.0,90.91,25.8,,,sandiego,bird
+25,W026,2,yes,208-2824,5/14/08,American Crow,Bilateral ocular sample,10077 Parkdale Ave.,USA,CA,SanDiego,San_Diego,92126.0,32.900555,-117.15833400000001,,yes,yes,yes,yes,46.0,33.01,0.6,,,sandiego,bird
+26,W027,2,yes,208-2826,5/14/08,Western Scrub Jay,Bilateral ocular sample,17171 Matinal Rd.,USA,CA,SanDiego,San_Diego,92127.0,33.02847,-117.092001,,yes,yes,yes,yes,20071.0,67.43,295.3,,,sandiego,bird
+27,W028,2,yes,208-3179,6/11/08,American Crow,Bilateral ocular sample,13390 Pantera Rd.,USA,CA,SanDiego,San_Diego,92130.0,32.95817,-117.240614,,yes,yes,yes,yes,138.0,61.04,1.6,,,sandiego,bird
+28,W029,2,yes,208-3183,6/11/08,American Crow,Bilateral ocular sample,361 Santa Helena,USA,CA,SanDiego,Solana_Beach,92075.0,32.99937,-117.255385,,yes,yes,yes,yes,586.0,73.08,4.0,,,sandiego,bird
+29,W030,2,yes,208-3351b,6/25/08,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",2314 Edgerton Dr,USA,CA,SanDiego,Lemon_Grove,91945.0,32.730377000000004,-117.03192800000001,20.8,yes,yes,yes,yes,221783.0,100.0,2812.7,Y,,sandiego,bird
+30,W031,2,yes,208-0941,9/15/08,American Crow,Bilateral ocular sample,12712 Rife Way,USA,CA,SanDiego,San_Diego,92129.0,32.95785,-117.139592,,yes,yes,yes,yes,9495.0,100.0,126.6,Y,,sandiego,bird
+31,W032,2,yes,208-3343,6/25/08,Coopers Hawk,"BIC, brain, heart, spleen, kidney",819 Capistrano Pl,USA,CA,SanDiego,San_Diego,92109.0,32.763412,-117.25069099999999,28.7,yes,yes,yes,yes,89508.0,100.0,1241.1,Y,,sandiego,bird
+32,W033,2,yes,209-0513b,8/7/08,American Crow,Bilateral ocular sample,9255 N. Magnolia Ave,USA,CA,SanDiego,Santee,92071.0,32.844039,-116.96913500000001,,yes,yes,yes,yes,147632.0,100.0,2096.8,Y,,sandiego,bird
+33,W034,2,yes,209-0526b,8/7/08,Western Scrub Jay,Bilateral ocular sample,2460 Cranston Dr.,USA,CA,SanDiego,Escondido,92025.0,33.090546,-117.069999,,yes,yes,yes,yes,93045.0,100.0,1358.1,Y,,sandiego,bird
+34,W035,2,yes,209-0945b,9/18/08,American Crow,Bilateral ocular sample,1359 San Elijo,USA,CA,SanDiego,Cardiff,92007.0,33.032305,-117.28932900000001,,yes,yes,yes,yes,10534.0,100.0,135.3,Y,,sandiego,bird
+35,W036,2,yes,209-0946b,9/18/08,American Crow,Bilateral ocular sample,2138 Kelly Ave.,USA,CA,SanDiego,Ramona,92065.0,33.029847,-116.88551499999998,,yes,yes,yes,yes,100604.0,100.0,1453.1,Y,,sandiego,bird
+36,W037,2,yes,209-0947b,9/18/08,American Crow,Bilateral ocular sample,29837 Valley Center Rd.,USA,CA,SanDiego,Valley_Center,92082.0,33.228075,-117.00978,,yes,yes,yes,yes,41051.0,100.0,526.8,Y,,sandiego,bird
+37,W038,2,yes,209-1603b,12/1/08,American Crow,Bilateral ocular sample,11280 Ganesta Rd.,USA,CA,SanDiego,San_Diego,92126.0,32.928021,-117.13946399999999,,yes,yes,yes,yes,44556.0,100.0,613.8,Y,,sandiego,bird
+38,W039,2,yes,209-1619b,12/8/08,American Crow,Bilateral ocular sample,12580 Oak Knoll Rd,USA,CA,SanDiego,Poway,92064.0,32.950590000000005,-117.05831,,yes,yes,yes,yes,21609.0,100.0,279.4,Y,,sandiego,bird
+39,W040,2,yes,209-0917b,9/15/08,American Crow,Bilateral ocular sample,23388 Bell Bluff Truck Trail,USA,CA,SanDiego,Alpine,91901.0,32.809754999999996,-116.64916000000001,18.7,yes,yes,yes,yes,8122.0,100.0,94.1,Y,,sandiego,bird
+40,W041,2,yes,209-0987b,9/18/08,American Crow,Bilateral ocular sample,1319 Marshall Rd,USA,CA,SanDiego,Alpine,91901.0,32.836513000000004,-116.76557700000001,23,yes,yes,yes,yes,217724.0,100.0,2868.2,Y,,sandiego,bird
+41,W042,2,yes,209-1880,1/20/09,Red-shouldered Hawk,"BIC, brain, heart, spleen, kidney",13347 Fallen Leaf Rd.,USA,CA,SanDiego,Poway,92064.0,33.005497,-117.04246200000001,21.2,yes,yes,yes,yes,125734.0,100.0,1863.4,Y,,sandiego,bird
+42,W043,2,yes,209-1616b,12/8/08,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",16608 Wikiup Rd,USA,CA,SanDiego,Ramona,92065.0,33.016027,-116.80168,13.3,yes,yes,yes,yes,116133.0,100.0,1694.1,Y,,sandiego,bird
+43,W044,2,yes,209-1582b,12/1/08,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",1595 Sycamore Dr,USA,CA,SanDiego,Fallbrook,92028.0,33.329969,-117.22716000000001,24.8,yes,yes,yes,yes,116314.0,100.0,1736.2,Y,,sandiego,bird
+44,W045,2,yes,209-2390,3/23/09,American Crow,Bilateral ocular sample,6416 El Sicomoro St.,USA,CA,SanDiego,Rancho_Santa_Fe,92067.0,33.011428,-117.19466399999999,,yes,yes,yes,yes,65863.0,100.0,971.0,,,sandiego,bird
+45,W046,2,yes,209-2472b,4/8/09,Red-shouldered Hawk,"BIC, brain, heart, spleen, kidney",10936 Morning Star Dr.,USA,CA,SanDiego,La_Mesa,91941.0,32.75448,-116.957849,27.9,yes,yes,yes,yes,177631.0,100.0,2271.0,Y,,sandiego,bird
+46,W047,2,yes,209-2710b,5/21/09,American Crow,Bilateral ocular sample,2240 Jimmy Durante Blvd,USA,CA,SanDiego,Del_Mar,92014.0,32.971932,-117.261077,,yes,yes,yes,yes,81597.0,100.0,1218.0,Y,,sandiego,bird
+47,W048,2,yes,209-1755b,12/22/08,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",1179 Cloverleaf Dr,USA,CA,SanDiego,El_Cajon,92019.0,32.779799,-116.92436200000002,14.6,yes,yes,yes,yes,117936.0,100.0,1693.5,Y,,sandiego,bird
+48,W049,2,yes,209-2895b,6/18/09,American Crow,Bilateral ocular sample,15942 Camino De Oro,USA,CA,SanDiego,Valley_Center,92082.0,33.25625,-116.98273999999999,,yes,yes,yes,yes,16345.0,100.0,241.5,Y,,sandiego,bird
+49,W050,2,yes,210-0371b,9/15/09,American Crow,Bilateral ocular sample,29309 Rocky Path,USA,CA,SanDiego,Pine_Valley,91962.0,32.827693,-116.51799299999999,,yes,yes,yes,yes,96580.0,100.0,1433.6,Y,,sandiego,bird
+50,W051,2,yes,210-0453,9/30/09,American Crow,Bilateral ocular sample,30275 Lilac Rd,USA,CA,SanDiego,Valley_Center,92082.0,33.259640999999995,-117.07217299999999,,yes,yes,yes,yes,85535.0,100.0,1225.7,Y,,sandiego,bird
+51,W052,2,yes,210-0478,10/9/09,American Crow,Bilateral ocular sample,1275 Hymettus Ave.,USA,CA,SanDiego,Encinitas,92024.0,33.071071,-117.298125,32.8,yes,yes,yes,yes,12841.0,57.59,194.6,,,sandiego,bird
+52,W053,2,yes,210-0645b,12/9/09,American Crow,Bilateral ocular sample,,USA,CA,SanDiego,,,0.0,0.0,,yes,yes,yes,yes,39470.0,78.04,439.0,,,sandiego,bird
+53,W054,2,yes,W13-0063,7/23/13,American Crow,Bilateral ocular sample,3225 Ramona Street,USA,CA,SanDiego,Ramona,92065.0,33.005859,-116.879589,37.8,yes,yes,yes,yes,16868.0,73.1,228.9,,,sandiego,bird
+54,W055,2,yes,W13-0070,8/1/13,American Crow,Bilateral ocular sample,360 Avacado Ave,USA,CA,SanDiego,El_Cajon,92020.0,32.791647999999995,-116.957783,22.8,yes,yes,yes,yes,571079.0,100.0,4675.4,Y,,sandiego,bird
+55,W056,2,yes,W13-0065b,8/1/13,Hawk,"BIC, brain, heart, spleen, kidney",639 Oceanview Ave,USA,CA,SanDiego,Encinitas,92024.0,33.060699,-117.291872,35.4,yes,yes,yes,yes,16523.0,65.97,223.8,,,sandiego,bird
+56,W057,2,yes,W13-0076,9/9/13,American Crow,Bilateral ocular sample,9171 Gorge Avenue,USA,CA,SanDiego,Santee,92071.0,32.839576,-116.99825600000001,,yes,yes,yes,yes,124188.0,100.0,1728.1,Y,,sandiego,bird
+57,W058,2,yes,W13-0095,11/1/13,American Crow,Bilateral ocular sample,2920 Zoo Drive,USA,CA,SanDiego,San_Diego,92101.0,32.736067,-117.14927,14.7,yes,yes,yes,yes,87654.0,100.0,1175.6,Y,,sandiego,bird
+58,W059,2,yes,W13-0098,11/7/13,American Crow,Bilateral ocular sample,9171 Gorge Avenue,USA,CA,SanDiego,Santee,92071.0,32.839576,-116.99825600000001,31.3,yes,yes,yes,yes,23193.0,100.0,303.5,Y,,sandiego,bird
+59,W060,2,yes,W13-0096b,11/7/13,Hawk,"BIC, brain, heart, spleen, kidney",1800 Cabrillo Memorial Dr,USA,CA,SanDiego,San_Diego,92106.0,32.674284,-117.23962900000001,28.8,yes,yes,yes,yes,984995.0,100.0,4507.2,Y,,sandiego,bird
+60,W061,2,yes,W14-0064b,8/6/14,Hawk,"BIC, brain, heart, spleen, kidney",13655 Highway 8 Business #108,USA,CA,SanDiego,El_Cajon,92021.0,32.837855,-116.893695,30.9,yes,yes,yes,yes,317172.0,100.0,2913.4,Y,,sandiego,bird
+61,W062,2,yes,W14-0051,7/17/14,American Crow,Bilateral ocular sample,3412 32nd St.,USA,CA,SanDiego,San_Diego,92104.0,32.741273,-117.125308,25.5,yes,yes,yes,yes,165680.0,100.0,2120.1,Y,,sandiego,bird
+62,W063,2,yes,W14-0065,8/13/14,American Crow,Bilateral ocular sample,6391 Budlong Lake Ave.,USA,CA,SanDiego,San_Diego,92119.0,32.797277,-117.020152,,yes,yes,yes,yes,25311.0,99.78,327.6,Y,,sandiego,bird
+63,W064,2,yes,W14-0068,8/13/14,Jay,Bilateral ocular sample,9385 Molleywoods Ave.,USA,CA,SanDiego,La_Mesa,91941.0,32.776331,-116.99601200000001,,yes,yes,yes,yes,17934.0,100.0,230.2,Y,,sandiego,bird
+64,W065,2,yes,W14-0098,9/25/14,American Crow,Bilateral ocular sample,11843 Waterhill Rd.,USA,CA,SanDiego,Lakeside,92040.0,32.852049,-116.936761,,yes,yes,yes,yes,96751.0,85.81,1425.4,,,sandiego,bird
+65,W066,2,yes,W14-0101,10/3/14,American Crow,Bilateral ocular sample,9214 Gorge Ave,USA,CA,SanDiego,Santee,92071.0,32.840046,-116.997324,,yes,yes,yes,yes,282894.0,99.71,3394.9,Y,,sandiego,bird
+66,W067,2,yes,W14-0102,10/3/14,American Crow,Bilateral ocular sample,1347 Frankfort Street,USA,CA,SanDiego,San_Diego,92110.0,32.775278,-117.205258,,yes,yes,yes,yes,575663.0,100.0,4074.1,Y,,sandiego,bird
+67,W068,2,yes,W14-0125b,10/28/14,Hawk,"BIC, brain, heart, spleen, kidney",12068 Pastoral Rd.,USA,CA,SanDiego,San_Diego,92128.0,33.015974,-117.06994099999999,23.5,yes,yes,yes,yes,78710.0,82.65,1183.5,,,sandiego,bird
+68,W069,2,yes,M14-0159,11/7/14,Culex quinquefasciatus,whole mosquito bodies,1343 S CREEKSIDE DR,USA,CA,SanDiego,Chula_Vista,91915.0,32.637802,-116.94583,32.2,yes,yes,yes,yes,59935.0,85.37,905.2,,,sandiego,mosquito
+69,W070,2,yes,M14-0160,11/7/14,Culex quinquefasciatus,whole mosquito bodies,2127 OLYMPIC PKWY,USA,CA,SanDiego,Chula_Vista,91915.0,32.628565,-116.96569299999999,36.2,yes,yes,yes,yes,28601.0,98.29,428.2,Y,,sandiego,mosquito
+70,W071,2,yes,W14-0138b,11/10/14,Hawk,"BIC, brain, heart, spleen, kidney",13392 Caminito Carmel,USA,CA,SanDiego,Del_Mar,92014.0,32.932299,-117.244426,32.5,yes,yes,yes,yes,10132.0,99.88,153.1,Y,,sandiego,bird
+71,W072,2,yes,W14-0142,11/17/14,American Crow,Bilateral ocular sample,11413 Matinal Circle,USA,CA,SanDiego,San_Diego,92127.0,33.02933,-117.084227,,yes,yes,yes,yes,223497.0,100.0,2880.9,Y,,sandiego,bird
+72,W073,2,yes,W14-0143,11/17/14,American Crow,Bilateral ocular sample,2126 Boundary Ave.,USA,CA,SanDiego,Ramona,92065.0,33.017938,-116.88433400000001,15.9,yes,yes,yes,yes,703326.0,100.0,4151.1,Y,,sandiego,bird
+73,W074,2,yes,W14-0154,12/18/14,Raven,Bilateral ocular sample,8302 Lake Adlon Dr,USA,CA,SanDiego,San_Diego,92119.0,32.797497,-117.01815400000001,,yes,yes,yes,yes,989264.0,99.89,5061.5,Y,,sandiego,bird
+74,W075,2,yes,W14-0155,12/18/14,Raven,Bilateral ocular sample,53rd St and Krenning St,USA,CA,SanDiego,San_Diego,92105.0,32.735915999999996,-117.081402,,yes,yes,yes,yes,109716.0,96.49,1576.3,,,sandiego,bird
+75,W076,2,yes,15-B-00055-B,4/16/15,American Crow,Bilateral ocular sample,7790 Convoy Ct.,USA,CA,SanDiego,San_Diego,92111.0,32.835012,-117.153148,,yes,yes,yes,yes,847231.0,100.0,4716.6,Y,,sandiego,bird
+76,W077,2,yes,15-B-00071-B,5/13/15,American Crow,Bilateral ocular sample,9230 lake country dr,USA,CA,SanDiego,Santee,92071.0,32.852311,-117.00363700000001,,yes,yes,yes,yes,1441753.0,100.0,5439.4,Y,,sandiego,bird
+77,W078,2,yes,15Q-00114,7/10/15,Culex quinquefasciatus ,whole mosquito bodies,Lemon Grove,USA,CA,SanDiego,Lemon_Grove,91945.0,32.7272582,-117.04478200000001,34.7,yes,yes,yes,yes,231096.0,87.85,2192.1,,,sandiego,mosquito
+78,W079,2,yes,15Q-00115,7/10/15,Culex quinquefasciatus ,whole mosquito bodies,2590 Main St,USA,CA,SanDiego,Lemon_Grove,91945.0,32.7331816,-117.0336615,27.4,yes,yes,yes,yes,1469847.0,100.0,5271.6,Y,,sandiego,mosquito
+79,W080,2,yes,15Q-00117,7/10/15,Culex quinquefasciatus ,whole mosquito bodies,7885 Bryant Ct,USA,CA,SanDiego,Lemon_Grove,91945.0,32.7371491,-117.02902069999999,28.5,yes,yes,yes,yes,658193.0,100.0,4408.2,Y,,sandiego,mosquito
+80,W081,2,yes,15Q-00147,7/28/15,Culex stigmatosoma,whole mosquito bodies,14787 Olde Highway 80,USA,CA,SanDiego,El_Cajon,92021.0,32.849115999999995,-116.86038400000001,24.9,yes,yes,yes,yes,292004.0,100.0,3455.8,Y,,sandiego,mosquito
+81,W082,2,yes,15Q-00194,8/14/15,Culex quinquefasciatus,whole mosquito bodies,0 Highway 78,USA,CA,SanDiego,Oceanside,92054.0,33.180142,-117.331969,29.9,yes,yes,yes,yes,819331.0,100.0,4797.5,Y,,sandiego,mosquito
+82,W083,2,yes,15-B-00226-T,8/14/15,Cooper's hawk,"BIC, brain, heart, spleen, kidney",435 S. Pacific St.,USA,CA,SanDiego,San_Marcos,92078.0,33.137456,-117.19913700000001,,yes,yes,yes,yes,923013.0,100.0,4791.4,Y,,sandiego,bird
+83,W084,2,yes,15-B-00234-B,8/18/15,Sharp-shinned hawk,"BIC, brain, heart, spleen, kidney",2703 Rhoades Rd,USA,CA,SanDiego,San_Diego,92139.0,32.673486,-117.05292,,yes,yes,yes,yes,169718.0,100.0,2327.4,Y,,sandiego,bird
+84,W085,2,yes,15Q-00217,8/21/15,Culex quinquefasciatus,whole mosquito bodies,W 32nd St,USA,CA,SanDiego,National_City,91950.0,32.652477600000005,-117.10720959999999,20.9,yes,yes,yes,yes,866565.0,100.0,4693.8,Y,,sandiego,mosquito
+85,W086,2,yes,15Q-00222,8/28/15,Culex quinquefasciatus,whole mosquito bodies,3840 Via de la Valle,USA,CA,SanDiego,San_Diego,92014.0,32.983560100000005,-117.2273582,26.1,yes,yes,yes,yes,720205.0,100.0,4572.5,Y,,sandiego,mosquito
+86,W087,2,yes,15Q-00229,8/28/15,Culex quinquefasciatus,whole mosquito bodies,0 San Dieguito Dr,USA,CA,SanDiego,Del_Mar,92014.0,32.9613277,-117.25407050000001,32.1,yes,yes,yes,yes,1359006.0,100.0,5270.1,Y,,sandiego,mosquito
+87,W088,2,yes,15Q-00232,8/28/15,Culex quinquefasciatus,whole mosquito bodies,2099 Encinitas Blvd,USA,CA,SanDiego,Encinitas,92024.0,33.0380817,-117.24923759999999,33.1,yes,yes,yes,yes,585070.0,100.0,4291.2,Y,,sandiego,mosquito
+88,W089,2,yes,15Q-00275,9/29/15,Culex quinquefasciatus,whole mosquito bodies,26437 N Centre City Pkwy,USA,CA,SanDiego,Escondido,92026.0,33.192652,-117.12053259999999,21.8,yes,yes,yes,yes,431584.0,100.0,4007.9,Y,,sandiego,mosquito
+89,W090,2,yes,15Q-00285,10/2/15,Culex tarsalis,whole mosquito bodies,1209 Rippey St,USA,CA,SanDiego,El_Cajon,92020.0,32.8117054,-116.99612040000001,17.9,yes,yes,yes,yes,709546.0,100.0,4713.1,Y,,sandiego,mosquito
+90,W091,2,yes,15Q-00338,10/20/15,Culex quinquefasciatus,whole mosquito bodies,2295 La Amatista Rd,USA,CA,SanDiego,Del_Mar,92014.0,32.9512385,-117.25609809999999,34.3,yes,yes,yes,yes,206465.0,91.55,2164.5,,,sandiego,mosquito
+91,W092,2,yes,15Q-00366,11/13/15,Culex quinquefasciatus,whole mosquito bodies,638 North Ave,USA,CA,SanDiego,Escondido,92026.0,33.174083,-117.0878256,33.8,yes,yes,yes,yes,2053884.0,98.52,5385.6,,,sandiego,mosquito
+92,W093,2,yes,16-Q-0803,8/11/16,Culex quinquefasciatus,whole mosquito bodies,3725 Belford St.,USA,CA,SanDiego,San_Diego,92111.0,32.811399699999996,-117.1643311,,yes,yes,yes,yes,385638.0,100.0,3558.4,Y,,sandiego,mosquito
+93,W094,2,yes,16-Q-0808,8/18/16,Culex quinquefasciatus,whole mosquito bodies,1425 1st St.,USA,CA,SanDiego,Coronado,92118.0,32.697339299999996,-117.1680534,,yes,yes,yes,yes,883569.0,98.37,3798.5,,,sandiego,mosquito
+94,W095,2,yes,17-B-1112-B,10/5/17,American Crow,Bilateral ocular sample,24256 Viejas Grade Rd.,USA,CA,SanDiego,Descanso,91916.0,32.8566652,-116.6262314,,yes,yes,yes,yes,2358617.0,100.0,5347.8,Y,,sandiego,bird
+95,W096,2,yes,17-B-1115-B,10/16/17,Western Scrub Jay,Bilateral ocular sample,28515 SR-79,USA,CA,SanDiego,Santa_Ysabel,92070.0,33.2144505,-116.6921548,,yes,yes,yes,yes,312134.0,100.0,3153.6,Y,,sandiego,bird
+96,W097,2,yes,17-B-1117-B,10/19/17,American Crow,Bilateral ocular sample,352 Caspian Way,USA,CA,SanDiego,Imperial_Beach,91932.0,32.5748002,-117.1248538,,yes,yes,yes,yes,243573.0,100.0,3418.0,Y,,sandiego,bird
+97,W098,2,yes,17-Q-1571,8/28/17,Culex stigmatosoma,whole mosquito bodies,3233 Suncrest Blvd.,USA,CA,SanDiego,El_Cajon,92021.0,32.8013162,-116.8756529,,yes,yes,yes,yes,410522.0,100.0,4012.5,Y,,sandiego,mosquito
+98,W099,2,yes,17-Q-1572,8/28/17,Culex quinquefasciatus,whole mosquito bodies,10250 Scripps Trl.,USA,CA,SanDiego,San_Diego,92131.0,32.9125804,-117.0808719,,yes,yes,yes,yes,609159.0,100.0,4446.1,Y,,sandiego,mosquito
+99,W100,2,yes,17-Q-1690,10/5/17,Culex quinquefasciatus,whole mosquito bodies,3022 N 45th St.,USA,CA,SanDiego,San_Diego,92105.0,32.7372059,-117.09808999999998,,yes,yes,yes,yes,273841.0,100.0,3032.7,Y,,sandiego,mosquito
+100,W101,2,yes,15B-272b,8/31/15,American Crow,Bilateral ocular sample,"133 F ST, CHULA VISTA, CA 91910-2933",USA,CA,SanDiego,Chula_Vista,91910.0,32.6434184,-117.0732393,21.1,yes,yes,yes,yes,1455183.0,100.0,4980.9,Y,,sandiego,bird
+101,W102,2,yes,15B-273b,8/31/15,American Crow,Bilateral ocular sample,"1715 KIRK PL, CARLSBAD, CA 92008-3621",USA,CA,SanDiego,Carlsbad,92008.0,33.1552433,-117.32374420000001,17.8,yes,yes,yes,yes,496851.0,100.0,4427.3,Y,,sandiego,bird
+102,W103,2,yes,15B-274b,8/31/15,Western Scrub Jay,Bilateral ocular sample,"1418 AVENIDA LA POSTA, ENCINITAS, CA 92024-5635",USA,CA,SanDiego,Encinitas,92024.0,33.0619146,-117.2533572,,yes,yes,yes,yes,406021.0,100.0,3206.3,Y,,sandiego,bird
+103,W104,2,yes,15B-407b,10/2/15,American Crow,Bilateral ocular sample,"1070 RAMONA ST, RAMONA, CA 92065",USA,CA,SanDiego,Ramona,92065.0,33.0249013,-116.8791975,19.2,yes,yes,yes,yes,257004.0,100.0,2449.0,Y,,sandiego,bird
+104,W105,2,yes,15B-408b,10/2/15,American Crow,Bilateral ocular sample,"680 RANCHO TRAILS, RAMONA, CA 92065",USA,CA,SanDiego,Ramona,92065.0,33.0752821,-116.8671399,19.8,yes,yes,yes,yes,25331.0,99.22,342.3,,,sandiego,bird
+105,W106,2,yes,15B-409b,10/2/15,Raven,Bilateral ocular sample,"10180 WILLOW CREEK RD, SAN DIEGO, CA 92131-1636",USA,CA,SanDiego,San_Diego,92131.0,32.9008949,-117.10793740000001,14.5,yes,yes,yes,yes,27194.0,97.44,78.5,,,sandiego,bird
+106,W107,2,yes,15B-536b,11/10/15,Western Scrub Jay,Bilateral ocular sample,"2860 ELMWOOD ST, CARLSBAD, CA 92008-1509",USA,CA,SanDiego,Carlsbad,92008.0,33.167346,-117.33977730000001,21.8,yes,yes,yes,yes,130960.0,99.98,1718.4,Y,,sandiego,bird
+107,W108,2,yes,15B-537b,11/10/15,American Crow,Bilateral ocular sample,"8490 HIGH ROSE TER, SAN DIEGO, CA 92127-6111",USA,CA,SanDiego,San_Diego,92127.0,33.012953,-117.1413351,19.7,yes,yes,yes,yes,19739.0,100.0,269.9,Y,,sandiego,bird
+108,W109,2,yes,15B-538b,11/10/15,American Crow,Bilateral ocular sample,"8841 MISSION GREENS RD 01, SANTEE, CA 92071-4281",USA,CA,SanDiego,Santee,92071.0,32.8373173,-116.98129850000001,17.4,yes,yes,yes,yes,31233.0,99.98,457.3,Y,,sandiego,bird
+109,W110,2,yes,16B-619T,1/27/16,American Crow,"brain, heart, spleen, kidney","15500 SAN PASQUAL VALLEY, CA",USA,CA,SanDiego,Escondido,92027.0,33.0991895,-117.0028972,22.9,yes,yes,yes,yes,91061.0,100.0,1306.4,Y,,sandiego,bird
+110,W111,2,yes,16B-622b,2/3/16,American Crow,Bilateral ocular sample,"2650 Worden ST, San Diego, CA 92110",USA,CA,SanDiego,San_Diego,92110.0,32.7480107,-117.2277075,25.9,yes,yes,yes,yes,201188.0,100.0,2875.9,Y,,sandiego,bird
+111,W112,2,yes,16B-639b,2/18/16,American Crow,Bilateral ocular sample,"1004 BEECHGLEN DR, CHULA VISTA, CA 91910-6640",USA,CA,SanDiego,Chula_Vista,91910.0,32.6299784,-117.0239963,27.5,yes,yes,yes,yes,363074.0,100.0,3952.1,Y,,sandiego,bird
+112,W113,3-plate1,yes,04-1247,5/25/04,American Crow,dead bird,,USA,CA,LosAngeles,La Mirada,90638.0,33.913000000000004,-118.03299999999999,27.6,yes,yes,yes,yes,,,,,,losangeles,bird
+113,W114,3-plate1,yes,04-1481,5/28/04,American Crow,dead bird,,USA,CA,SanBernardino,San_Bernardino,92415.0,34.111,-117.322,15.1,yes,yes,yes,yes,,,,,,sanbernardino,bird
+114,W115,3-plate1,yes,Apr-95,7/9/04,American Crow,dead bird,,USA,CA,LosAngeles,Van Nuys,91406.0,34.21,-118.506,19.4,yes,yes,yes,yes,,,,,,losangeles,bird
+115,W116,3-plate1,yes,Apr-20,7/23/04,Yellow-billed Magpie,dead bird,,USA,CA,Butte,Oroville,95965.0,39.525999999999996,-121.569,20.9,yes,yes,yes,yes,,,,Y,,butte,bird
+116,W117,3-plate1,yes,May-33,6/13/05,Western Scrub Jay,dead bird,,USA,CA,Tulare,Visalia,93277.0,36.316,-119.33,23.8,yes,yes,yes,yes,,,,,,tulare,bird
+117,W118,3-plate1,yes,May-84,6/27/05,Yellow-billed Magpie,dead bird,,USA,CA,Sutter,Yuba City,95993.0,39.119,-121.65100000000001,17.3,yes,yes,yes,yes,,,,,,sutter,bird
+118,W119,3-plate1,yes,May-08,8/3/05,Yellow-billed Magpie,dead bird,,USA,CA,Solano,Vacaville,95688.0,38.39,-121.934,15.9,yes,yes,yes,yes,,,,,,solano,bird
+119,W120,3-plate1,yes,May-99,8/4/05,Yellow-billed Magpie,dead bird,,USA,CA,Stanislaus,Turlock,95380.0,37.48,-120.863,20.7,yes,yes,yes,yes,,,,,,stanislaus,bird
+120,W121,3-plate1,yes,Jun-27,8/8/06,American Robin,dead bird,,USA,CA,Lassen,Doyle,,40.018,-120.124,15.1,yes,yes,yes,yes,,,,,,lassen,bird
+121,W122,3-plate1,yes,Jun-70,8/14/06,California Scrub-Jay,dead bird,,USA,CA,Butte,Oroville,,39.641999999999996,-121.53,19.9,yes,yes,yes,yes,,,,,,butte,bird
+122,W123,3-plate1,yes,Jun-01,9/13/06,Yellow-billed Magpie,dead bird,,USA,CA,Stanislaus,Modesto,,37.650999999999996,-121.02799999999999,19.5,yes,yes,yes,yes,,,,,,stanislaus,bird
+123,W124,3-plate1,yes,Jul-20,6/21/07,California Scrub-Jay,dead bird,,USA,CA,Butte,Gridley,,39.361999999999995,-121.66,19,yes,yes,yes,yes,,,,,,butte,bird
+124,W125,3-plate1,yes,Jul-21,6/24/07,California Scrub-Jay,dead bird,,USA,CA,Stanislaus,Modesto,,37.641,-120.979,20.1,yes,yes,yes,yes,,,,,,stanislaus,bird
+125,W126,3-plate1,yes,Jul-75,6/24/07,California Scrub-Jay,dead bird,,USA,CA,Fresno,Fresno,,36.821,-119.76299999999999,21.3,yes,yes,yes,yes,,,,,,fresno,bird
+126,W127,3-plate1,yes,Aug-02,8/11/08,Northern Mockingbird,dead bird,,USA,CA,SanBernardino,Redlands,,34.033,-117.152,18.3,yes,yes,yes,yes,,,,,,sanbernardino,bird
+127,W128,3-plate1,yes,Aug-51,8/12/08,Oak Titmouse,dead bird,,USA,CA,Calaveras,San_Andreas,,38.235,-120.712,18.4,yes,yes,yes,yes,,,,,,calaveras,bird
+128,W129,3-plate1,yes,Aug-01,8/15/08,House Finch,dead bird,,USA,CA,LosAngeles,La_Verne,,34.107,-117.76899999999999,25.8,yes,yes,yes,yes,,,,,,losangeles,bird
+129,W130,3-plate1,yes,Aug-63,8/18/08,California Scrub-Jay,dead bird,,USA,CA,ContraCosta,Antioch,,38.015,-121.814,20.6,yes,yes,yes,yes,,,,,,contracosta,bird
+130,W131,3-plate1,yes,Aug-68,8/21/08,California Scrub-Jay,dead bird,,USA,CA,Stanislaus,Turlock,,37.537,-120.861,19,yes,yes,yes,yes,,,,,,stanislaus,bird
+131,W132,3-plate1,yes,Aug-79,8/25/08,American Crow,dead bird,,USA,CA,LosAngeles,Agoura_Hills,,34.168,-118.75200000000001,23.6,yes,yes,yes,yes,,,,,,losangeles,bird
+132,W133,3-plate1,yes,09-1614,6/18/09,House Finch,dead bird,,USA,CA,Kern,Bakersfield,,35.417,-119.073,25.7,yes,yes,yes,yes,,,,,,kern,bird
+133,W134,3-plate1,yes,09-1753,6/23/09,California Scrub-Jay,dead bird,,USA,CA,Kings,Hanford,,36.354,-119.62200000000001,11.3,yes,yes,yes,yes,,,,,,kings,bird
+134,W135,3-plate1,yes,Sep-42,9/4/09,Northern Mockingbird,dead bird,,USA,CA,Stanislaus,Turlock,,37.51,-120.852,16.4,yes,yes,yes,yes,,,,,,stanislaus,bird
+135,W136,3-plate1,yes,10-1660,7/21/10,California Scrub-Jay,dead bird,,USA,CA,Stanislaus,Ceres,,37.547,-120.948,11.7,yes,yes,yes,yes,,,,,,stanislaus,bird
+136,W137,3-plate1,yes,10-1803,7/29/10,California Scrub-Jay,dead bird,,USA,CA,Placer,Roseville,,38.731,-121.35700000000001,19.4,yes,yes,yes,yes,,,,,,placer,bird
+137,W138,3-plate1,yes,10-1833,7/30/10,House Sparrow,dead bird,,USA,CA,Stanislaus,Ceres,,37.585,-120.95200000000001,15.8,yes,yes,yes,yes,,,,,,stanislaus,bird
+138,W139,3-plate1,yes,10-1857,8/2/10,California Scrub-Jay,dead bird,,USA,CA,Fresno,Fresno,,36.858000000000004,-119.756,13,yes,yes,yes,yes,,,,,,fresno,bird
+139,W140,3-plate1,yes,11-1352,7/11/11,California Scrub-Jay,dead bird,,USA,CA,SanJoaquin,Stockton,,37.971,-121.302,11.4,yes,yes,yes,yes,,,,,,sanjoaquin,bird
+140,W141,3-plate1,yes,Nov-58,8/22/11,Black-headed Grosbeak,dead bird,,USA,CA,SanBernardino,Alta_Loma,,34.135,-117.56700000000001,26.7,yes,yes,yes,yes,,,,,,sanbernardino,bird
+141,W142,3-plate1,yes,Nov-46,9/21/11,Sparrow,dead bird,,USA,CA,Placer,Roseville,,38.736999999999995,-121.229,18.4,yes,yes,yes,yes,,,,,,placer,bird
+142,W143,3-plate1,yes,12-1341,6/6/12,American Crow,dead bird,,USA,CA,LosAngeles,Sierra_Madre,,34.158,-118.04299999999999,13.4,yes,yes,yes,yes,,,,,,losangeles,bird
+143,W144,3-plate1,yes,12-1583,6/12/12,California Scrub-Jay,dead bird,,USA,CA,Stanislaus,Modesto,,37.674,-120.98100000000001,14.8,yes,yes,yes,yes,,,,,,stanislaus,bird
+144,W145,3-plate1,yes,12-1621,6/14/12,American Crow,dead bird,,USA,CA,Riverside,Riverside,,34.001999999999995,-117.48,13.5,yes,yes,yes,yes,,,,,,riverside,bird
+145,W146,3-plate1,yes,12-1897,6/21/12,American Crow,dead bird,,USA,CA,Tulare,Visalia,,36.315,-119.29,21.3,yes,yes,yes,yes,,,,,,tulare,bird
+146,W147,3-plate1,yes,Dec-91,7/17/12,American Crow,dead bird,,USA,CA,LosAngeles,Northridge,,34.249,-118.51299999999999,14.2,yes,yes,yes,yes,,,,,,losangeles,bird
+147,W148,3-plate1,yes,Dec-04,7/17/12,American Crow,dead bird,,USA,CA,Merced,Atwater,,37.347,-120.59100000000001,13.9,yes,yes,yes,yes,,,,,,merced,bird
+148,W149,3-plate1,yes,Dec-66,7/22/12,California Scrub-Jay,dead bird,,USA,CA,Tulare,Visalia,,36.333,-119.329,14.8,yes,yes,yes,yes,,,,,,tulare,bird
+149,W150,3-plate1,yes,Dec-00,7/20/12,American Crow,dead bird,,USA,CA,LosAngeles,Beverly_Hills,,34.061,-118.402,15.1,yes,yes,yes,yes,,,,,,losangeles,bird
+150,W151,3-plate1,yes,Dec-25,8/8/12,Yellow-billed Magpie,dead bird,,USA,CA,Merced,Atwater,,37.302,-120.6,10.2,yes,yes,yes,yes,,,,,,merced,bird
+151,W152,3-plate1,yes,13-2824,8/2/13,American Robin,dead bird,,USA,CA,Placer,Loomis,,38.808,-121.18,16.4,yes,yes,yes,yes,,,,,,placer,bird
+152,W153,3-plate1,yes,13-3056,8/8/13,House Finch,dead bird,,USA,CA,Shasta,Redding,,40.57,-122.316,22.3,yes,yes,yes,yes,,,,,,shasta,bird
+153,W154,3-plate1,yes,13-3073,8/7/13,California Scrub-Jay,dead bird,,USA,CA,Butte,Paradise,,39.775,-121.596,17.3,yes,yes,yes,yes,,,,,,butte,bird
+154,W155,3-plate1,yes,13-3100,8/8/13,California Scrub-Jay,dead bird,,USA,CA,LosAngeles,RPV,,33.859,-118.391,23.7,yes,yes,yes,yes,,,,,,losangeles,bird
+155,W156,3-plate1,yes,13-3102,7/31/13,Red-shouldered Hawk,dead bird,,USA,CA,LosAngeles,West_Covina,,34.098,-117.805,24.9,yes,yes,yes,yes,,,,,,losangeles,bird
+156,W157,3-plate1,yes,13-3197,8/12/13,House Finch,dead bird,,USA,CA,Shasta,Anderson,,40.468,-122.277,25.4,yes,yes,yes,yes,,,,,,shasta,bird
+157,W158,3-plate1,yes,13-3473,8/20/13,California Scrub-Jay,dead bird,,USA,CA,Butte,Chico,,39.732,-121.84100000000001,18.5,yes,yes,yes,yes,,,,,,butte,bird
+158,W159,3-plate1,yes,13-3592,8/25/13,California Scrub-Jay,dead bird,,USA,CA,Merced,Atwater,,37.338,-120.63600000000001,16.7,yes,yes,yes,yes,,,,,,merced,bird
+159,W160,3-plate1,yes,13-3611,8/26/13,California Scrub-Jay,dead bird,,USA,CA,Shasta,Redding,,40.552,-122.406,15.6,yes,yes,yes,yes,,,,,,shasta,bird
+160,W161,3-plate1,yes,17-824,6/17/17,American Crow,dead bird,,USA,CA,Riverside,Norco,,33.946999999999996,-117.542,23.2,yes,yes,yes,yes,,,,,,riverside,bird
+161,W162,3-plate1,yes,17-907,6/23/17,Black-headed Grosbeak,dead bird,,USA,CA,Lake,Clearlake,,38.95,-122.618,38.4,yes,yes,yes,yes,,,,,,lake,bird
+162,W163,3-plate1,yes,17-916,6/23/17,American Crow,dead bird,,USA,CA,LosAngeles,Temple_City,,34.116,-118.071,20.6,yes,yes,yes,yes,,,,,,losangeles,bird
+163,W164,3-plate1,yes,17-931,6/23/17,American Crow,dead bird,,USA,CA,LosAngeles,West_Hills,,34.196999999999996,-118.62299999999999,20.6,yes,yes,yes,yes,,,,,,losangeles,bird
+164,W165,3-plate1,yes,17-1011,6/30/17,California Scrub-Jay,dead bird,,USA,CA,SanBernardino,Fontana,,34.105,-117.431,18.7,yes,yes,yes,yes,,,,,,sanbernardino,bird
+165,W166,3-plate1,yes,17-1031,7/3/17,American Crow,dead bird,,USA,CA,Riverside,Corona,,33.756,-117.469,24.5,yes,yes,yes,yes,,,,,,riverside,bird
+166,W167,3-plate1,yes,17-1153,7/11/17,American Crow,dead bird,,USA,CA,Riverside,Norco,,33.927,-117.583,30,yes,yes,yes,yes,,,,,,riverside,bird
+167,W168,3-plate1,yes,17-1174,7/13/17,American Crow,dead bird,,USA,CA,LosAngeles,Thousand_Oaks,,34.205,-118.84700000000001,27.7,yes,yes,yes,yes,,,,,,ventura,bird
+168,W169,3-plate1,yes,17-1319,7/26/17,American Crow,dead bird,,USA,CA,ContraCosta,Walnut_Creek,,37.921,-122.024,20.4,yes,yes,yes,yes,,,,,,contracosta,bird
+169,W170,3-plate1,yes,17-1373,7/31/17,California Scrub-Jay,dead bird,,USA,CA,Butte,Oroville,,39.505,-121.586,34.2,yes,yes,yes,yes,,,,,,butte,bird
+170,W171,3-plate1,yes,17-1428,8/3/17,American Crow,dead bird,,USA,CA,ContraCosta,Danville,,37.797,-121.98,17,yes,yes,yes,yes,,,,,,contracosta,bird
+171,W172,3-plate1,yes,17-1746,8/30/17,Yellow-billed Magpie,dead bird,,USA,CA,Butte,Chico,,39.859,-122.001,27,yes,yes,yes,yes,,,,,,butte,bird
+172,W173,3-plate1,yes,17-1715,8/28/17,American Crow,dead bird,,USA,CA,Ventura,Simi_Valley,,34.273,-118.66799999999999,25,yes,yes,yes,yes,,,,,,ventura,bird
+173,W174,3-plate1,yes,17-1758,8/31/17,Yellow-billed Magpie,dead bird,,USA,CA,Butte,Chico,,39.859,-122.001,25.5,yes,yes,yes,yes,,,,,,butte,bird
+174,W175,3-plate2,yes,04-GRLA 3152,9/2/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Lakewood,,33.853,-118.102,26.4,yes,yes,yes,yes,,,,,,losangeles,mosquito
+175,W176,3-plate2,yes,04-GRLA 3155,9/2/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Montebello,,34.015,-118.13,31.6,yes,yes,yes,yes,,,,,,losangeles,mosquito
+176,W177,3-plate2,yes,05-GRLA 648,6/13/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Lakewood,,33.842,-118.098,24,yes,yes,yes,yes,,,,,,losangeles,mosquito
+177,W178,3-plate2,yes,05-LONG 151,6/21/05,Culex tarsalis,whole mosquito bodies,,USA,CA,LosAngeles,Long_Beach,,33.768,-118.119,36.9,yes,yes,yes,yes,,,,,,losangeles,mosquito
+178,W179,3-plate2,yes,06-GRLA 563,8/7/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Encino,,34.181,-118.48100000000001,24.1,yes,yes,yes,yes,,,,,,losangeles,mosquito
+179,W180,3-plate2,yes,06-GRLA 559,8/5/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Encino,,34.183,-118.485,23.4,yes,yes,yes,yes,,,,,,losangeles,mosquito
+180,W181,3-plate2,yes,07-CNSL 93,7/20/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Clotho,,36.751,-119.616,18.8,yes,yes,yes,yes,,,,,,fresno,mosquito
+181,W182,3-plate2,yes,07-KNGS 91,7/20/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kings,Hanford,,36.342,-119.624,19.99,yes,yes,yes,yes,,,,,,kings,mosquito
+182,W183,3-plate2,yes,08-DLTA 557,9/9/08,Culex stigmatosoma,whole mosquito bodies,,USA,CA,Tulare,Sultana,,36.567,-119.35,20.6,yes,yes,yes,yes,,,,,,tulare,mosquito
+183,W184,3-plate2,yes,08-TRLK 1565,9/9/08,Culex pipiens,whole mosquito bodies,,USA,CA,Stanislaus,Denair,,37.522,-120.786,21.6,yes,yes,yes,yes,,,,,,stanislaus,mosquito
+184,W185,3-plate2,yes,09-KNGS 170,7/28/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kings,Laton,,36.423,-119.67299999999999,21,yes,yes,yes,yes,,,,,,kings,mosquito
+185,W186,3-plate2,yes,09-CNSL 329,7/28/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Del Ray,,36.66,-119.535,22,yes,yes,yes,yes,,,,,,fresno,mosquito
+186,W187,3-plate2,yes,11-GRLA 6123,8/11/11,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Winnetka,,34.193000000000005,-118.568,22.4,yes,yes,yes,yes,,,,,,losangeles,mosquito
+187,W188,3-plate2,yes,10-CNSL 536,8/12/10,Culex tarsalis,whole mosquito bodies,East Fantz Avenue,USA,CA,Fresno,Parlier,,36.653,-119.531,20.3,yes,yes,yes,yes,,,,,,fresno,mosquito
+188,W189,3-plate2,yes,10-KNGS 446,8/12/10,Culex tarsalis,whole mosquito bodies,15492 Kent Avenue,USA,CA,Kings,Guernsey,,36.226,-119.727,20.4,yes,yes,yes,yes,,,,,,kings,mosquito
+189,W190,3-plate2,yes,11-GRLA 6122,8/11/11,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Granada_Hills,,34.258,-118.529,31.9,yes,yes,yes,yes,,,,,,losangeles,mosquito
+190,W191,3-plate2,yes,12-TLRE 78,9/18/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Tulare,Woodville,,36.094,-119.195,17.9,yes,yes,yes,yes,,,,,,tulare,mosquito
+191,W192,3-plate2,yes,12-KNGS 474,9/4/12,Culex pipiens,whole mosquito bodies,,USA,CA,Kings,Lemoore,,36.319,-119.794,20.8,yes,yes,yes,yes,,,,,,kings,mosquito
+192,W193,3-plate2,yes,12-SUYA 326,8/27/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Yuba,Mello,,39.19,-121.589,21.2,yes,yes,yes,yes,,,,,,yuba,mosquito
+193,W194,3-plate2,yes,12-TLRE 50,8/28/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Tulare,Harmony,,36.144,-119.21700000000001,17.4,yes,yes,yes,yes,,,,,,tulare,mosquito
+194,W195,3-plate2,yes,12-COAV 2195,8/23/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Riverside,Oasis,,33.461999999999996,-116.061,19.4,yes,yes,yes,yes,,,,,,riverside,mosquito
+195,W196,3-plate2,yes,12-GRLA 826,8/7/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Whittier,,33.937,-118.039,17.9,yes,yes,yes,yes,,,,,,losangeles,mosquito
+196,W197,3-plate2,yes,12-GRLA 5958,8/29/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Van_Nuys,,34.189,-118.469,18.8,yes,yes,yes,yes,,,,,,losangeles,mosquito
+197,W198,3-plate2,yes,12-CNSL 467,8/10/12,Culex stigmatosoma,whole mosquito bodies,,USA,CA,Fresno,Sanger,,36.667,-119.53399999999999,20.8,yes,yes,yes,yes,,,,,,fresno,mosquito
+198,W199,3-plate2,yes,12-FRWS 141,8/14/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Fresno,Dos_Palos,,36.953,-120.59,23.6,yes,yes,yes,yes,,,,,,fresno,mosquito
+199,W200,3-plate2,yes,12-FRWS 142,8/14/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Fresno,Dos_Palos,,36.953,-120.59,19.1,yes,yes,yes,yes,,,,,,fresno,mosquito
+200,W201,3-plate2,yes,13-LAKE 305,8/21/13,Culex stigmatosoma,whole mosquito bodies,,USA,CA,Lake,Finley,,38.993,-122.875,25.4,yes,yes,yes,yes,,,,,,lake,mosquito
+201,W202,3-plate2,yes,13-BUCO 89,8/14/13,Culex erythrothorax,whole mosquito bodies,,USA,CA,Butte,Butte_Valley,,39.65,-121.64200000000001,20.5,yes,yes,yes,yes,,,,,,butte,mosquito
+202,W203,3-plate2,yes,13-GRLA 5984,9/10/13,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,San_Fernando,,34.293,-118.436,18.5,yes,yes,yes,yes,,,,,,losangeles,mosquito
+203,W204,3-plate2,yes,13-LAKE 395,9/11/13,Culex erythrothorax,whole mosquito bodies,,USA,CA,Lake,Lakeport,,39.077,-122.93799999999999,25.7,yes,yes,yes,yes,,,,,,lake,mosquito
+204,W205,3-plate2,yes,13-WEST 123,8/28/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Lakeview,,35.093,-119.27600000000001,19,yes,yes,yes,yes,,,,,,kern,mosquito
+205,W206,3-plate2,yes,13-WEST 126,8/28/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Lakeview,,35.093,-119.27600000000001,18.1,yes,yes,yes,yes,,,,,,kern,mosquito
+206,W207,3-plate2,yes,13-SUYA 404,8/26/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Sutter,Yuba_City,,39.16,-121.641,18.6,yes,yes,yes,yes,,,,,,sutter,mosquito
+207,W208,3-plate2,yes,13-GRLA 5910,8/22/13,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Northridge,,34.222,-118.515,20.1,yes,yes,yes,yes,,,,,,losangeles,mosquito
+208,W209,3-plate2,yes,13-GRLA 5903,8/22/13,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Lake_Balboa,,34.19,-118.494,19.9,yes,yes,yes,yes,,,,,,losangeles,mosquito
+209,W210,3-plate2,yes,13-WVAL 888,8/15/13,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,SanBernardino,Ontario,,34.071,-117.67299999999999,18.5,yes,yes,yes,yes,,,,,,sanbernardino,mosquito
+210,W211,3-plate2,yes,14-TRLK 154,6/17/14,Culex pipiens,whole mosquito bodies,,USA,CA,Stanislaus,Turlock,,37.510999999999996,-120.82600000000001,21.8,yes,yes,yes,yes,,,,,,stanislaus,mosquito
+211,W212,3-plate2,yes,14-CNSL 39,6/20/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Fresno,,36.866,-119.79,20.2,yes,yes,yes,yes,,,,,,fresno,mosquito
+212,W213,3-plate2,yes,14-SUYA 110,6/23/14,Culex tarsalis,whole mosquito bodies,,USA,CA,Yuba,Marysville,,39.165,-121.564,20.6,yes,yes,yes,yes,,,,,,yuba,mosquito
+213,W214,3-plate2,yes,14-MADR 43,6/24/14,Culex tarsalis,whole mosquito bodies,,USA,CA,Madera,Notarb,,37.025999999999996,-120.118,19.8,yes,yes,yes,yes,,,,,,madera,mosquito
+214,W215,3-plate2,yes,14-TRLK 248,7/3/14,Culex pipiens,whole mosquito bodies,,USA,CA,Stanislaus,Turlock,,37.498000000000005,-120.852,18.4,yes,yes,yes,yes,,,,,,stanislaus,mosquito
+215,W216,3-plate2,yes,14-WVAL 698,7/8/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,SanBernardino,Ontario,,34.082,-117.664,17.8,yes,yes,yes,yes,,,,,,sanbernardino,mosquito
+216,W217,3-plate2,yes,14-CNTR 177,7/7/14,Culex tarsalis,whole mosquito bodies,,USA,CA,ContraCosta,Martinez,,38.036,-122.117,20.6,yes,yes,yes,yes,,,,,,contracosta,mosquito
+217,W218,3-plate2,yes,14-ALCO 43,7/15/14,Culex tarsalis,whole mosquito bodies,,USA,CA,Alameda,Livermore,,37.669000000000004,-121.796,19.3,yes,yes,yes,yes,,,,,,alameda,mosquito
+218,W219,3-plate2,yes,14-ANTV 16,7/22/14,Culex tarsalis,whole mosquito bodies,,USA,CA,LosAngeles,Lancaster,,34.679,-118.065,20,yes,yes,yes,yes,,,,,,losangeles,mosquito
+219,W220,3-plate2,yes,14-CNSL 370,7/10/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Kingsburg,,36.503,-119.59200000000001,20.8,yes,yes,yes,yes,,,,,,fresno,mosquito
+220,W221,3-plate2,yes,15-GRLA 160,5/14/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,South_Gate,,33.945,-118.197,24.9,yes,yes,yes,yes,,,,,,losangeles,mosquito
+221,W222,3-plate2,yes,15-CNSL 295,6/9/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Riverdale,,36.409,-119.84200000000001,18.6,yes,yes,yes,yes,,,,,,fresno,mosquito
+222,W223,3-plate2,yes,15-SUYA 56,6/15/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Yuba,Mello,,39.214,-121.53399999999999,20.3,yes,yes,yes,yes,,,,,,yuba,mosquito
+223,W224,3-plate2,yes,15-CNTR 86,6/15/15,Culex tarsalis,whole mosquito bodies,,USA,CA,ContraCosta,Oakley,,37.997,-121.70200000000001,24.2,yes,yes,yes,yes,,,,,,contracosta,mosquito
+224,W225,3-plate2,yes,15-DLNO 61,7/21/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Tulare,Earlimart,,35.884,-119.266,22,yes,yes,yes,yes,,,,,,tulare,mosquito
+225,W226,3-plate2,yes,15-FRWS 63,7/14/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Firebaugh,,36.847,-120.445,22.5,yes,yes,yes,yes,,,,,,fresno,mosquito
+226,W227,3-plate2,yes,15-GLEN 32,7/21/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Glenn,Glenn,,39.63,-122.007,19.9,yes,yes,yes,yes,,,,,,glenn,mosquito
+227,W228,3-plate2,yes,15-ALCO 72,7/22/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Alameda,Fremont,,37.55,-122.022,24.7,yes,yes,yes,yes,,,,,,alameda,mosquito
+228,W229,3-plate2,yes,15-BUCO 180,7/15/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Butte,Chico,,39.743,-121.884,20.7,yes,yes,yes,yes,,,,,,butte,mosquito
+229,W230,3-plate2,yes,15-LAKE 235,7/21/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Lake,Clearlake,,38.937,-122.65899999999999,21.6,yes,yes,yes,yes,,,,,,lake,mosquito
+230,W231,3-plate2,yes,16-SUYA 143,7/5/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Sutter,Yuba_City,,39.093,-121.676,32.2,yes,yes,yes,yes,,,,,,sutter,mosquito
+231,W232,3-plate2,yes,16-SUYA 145,7/5/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Sutter,Pleasant_Grove,,38.824,-121.50299999999999,23.4,yes,yes,yes,yes,,,,,,sutter,mosquito
+232,W233,3-plate2,yes,16-FRNO 79,6/29/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Fresno,,36.839,-119.895,22.2,yes,yes,yes,yes,,,,,,fresno,mosquito
+233,W234,3-plate2,yes,16-SUYA 146,7/5/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Yuba,Marysville,,39.214,-121.53399999999999,27.2,yes,yes,yes,yes,,,,,,yuba,mosquito
+234,W235,3-plate2,yes,16-FRNO 85,7/1/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Fresno,,36.839,-119.891,25.4,yes,yes,yes,yes,,,,,,fresno,mosquito
+235,W236,3-plate2,yes,16-FRNO 86,7/1/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Fresno,Fresno,,36.839,-119.895,25.8,yes,yes,yes,yes,,,,,,fresno,mosquito
+236,W237,3-plate2,yes,16-MADR 167,6/30/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Madera,Storey,,36.971,-120.006,23,yes,yes,yes,yes,,,,,,madera,mosquito
+237,W238,3-plate2,yes,16-NWST 129,7/8/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Riverside,Eastvale,,33.918,-117.632,22.1,yes,yes,yes,yes,,,,,,riverside,mosquito
+238,W239,3-plate2,yes,16-KNGS 167,7/7/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kings,Guernsey,,36.226,-119.727,21.5,yes,yes,yes,yes,,,,,,kings,mosquito
+239,W240,3-plate2,yes,16-KNGS 172,7/7/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kings,Armona,,36.294000000000004,-119.696,21.4,yes,yes,yes,yes,,,,,,kings,mosquito
+240,W241,3-plate2,yes,17-TRLK 424,7/6/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Stanislaus,Grayson,,37.573,-121.166,25.6,yes,yes,yes,yes,,,,,,stanislaus,mosquito
+241,W242,3-plate2,yes,17-FRWS 170,7/6/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Fresno,Kerman,,36.748000000000005,-120.22200000000001,26.7,yes,yes,yes,yes,,,,,,fresno,mosquito
+242,W243,3-plate2,yes,17-FRWS 158,7/6/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Fresno,Dos_Palos,,36.951,-120.62799999999999,27.4,yes,yes,yes,yes,,,,,,fresno,mosquito
+243,W244,3-plate2,yes,17-TLRE 120,7/4/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Tulare,Pixley,,35.971,-119.29700000000001,30.2,yes,yes,yes,yes,,,,,,tulare,mosquito
+244,W245,3-plate2,yes,17-KNGS 176,6/30/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Kings,Lemoore,,36.388000000000005,-119.839,22.7,yes,yes,yes,yes,,,,,,kings,mosquito
+245,W246,3-plate2,yes,17-KNGS 156,6/29/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Kings,Lemoore,,36.344,-119.89399999999999,23.8,yes,yes,yes,yes,,,,,,kings,mosquito
+246,W247,3-plate2,yes,17-GRLA 384,6/28/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Rowland_Hts,,33.98,-117.928,27.7,yes,yes,yes,yes,,,,,,losangeles,mosquito
+247,W248,3-plate2,yes,17-GRLA 400,6/29/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,LosAngeles,Bellflower,,33.898,-118.11,27,yes,yes,yes,yes,,,,,,losangeles,mosquito
+248,W249,3-plate2,yes,17-MERC 167,8/2/17,Culex pipiens,whole mosquito bodies,,USA,CA,Merced,Atwater,,37.363,-120.625,23.4,yes,yes,yes,yes,,,,,,merced,mosquito
+249,W250,3-plate2,yes,17-TRLK 658,8/3/17,Culex pipiens,whole mosquito bodies,,USA,CA,Stanislaus,Turlock,,37.516999999999996,-120.824,22.3,yes,yes,yes,yes,,,,,,stanislaus,mosquito
+250,W251,3-plate3,yes,Apr-90,7/20/04,American Crow,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.329,-119.07799999999999,32.9,yes,yes,yes,yes,,,,,,kern,bird
+251,W252,3-plate3,yes,Apr-51,8/5/04,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93313.0,35.302,-119.053,19.1,yes,yes,yes,yes,,,,,,kern,bird
+252,W253,3-plate3,yes,Apr-64,8/11/04,American Crow,dead bird,,USA,CA,Kern,Bakersfield,93312.0,35.385,-119.12100000000001,17.2,yes,yes,yes,yes,,,,,,kern,bird
+253,W254,3-plate3,yes,Apr-50,8/17/04,American Crow,dead bird,,USA,CA,Kern,Bakersfield,93308.0,35.389,-119.053,10.6,yes,yes,yes,yes,,,,,,kern,bird
+254,W255,3-plate3,yes,Apr-10,8/23/04,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93312.0,35.406,-119.12299999999999,10.6,yes,yes,yes,yes,,,,,,kern,bird
+255,W256,3-plate3,yes,Apr-93,9/8/04,Brewer's Blackbird,dead bird,,USA,CA,Kern,Bakersfield,93313.0,35.265,-119.052,24.7,yes,yes,yes,yes,,,,,,kern,bird
+256,W257,3-plate3,yes,May-08,6/16/05,American Robin,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.33,-119.073,21.1,yes,yes,yes,yes,,,,,,kern,bird
+257,W258,3-plate3,yes,May-00,6/24/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.36,-119.046,15.7,yes,yes,yes,yes,,,,,,kern,bird
+258,W259,3-plate3,yes,May-89,6/27/05,Sparrow,dead bird,,USA,CA,Kern,Bakersfield,93307.0,35.285,-119.01799999999999,15.7,yes,yes,yes,yes,,,,,,kern,bird
+259,W260,3-plate3,yes,May-97,6/30/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.341,-119.06700000000001,21.4,yes,yes,yes,yes,,,,,,kern,bird
+260,W261,3-plate3,yes,May-22,7/10/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.33,-119.061,17.7,yes,yes,yes,yes,,,,,,kern,bird
+261,W262,3-plate3,yes,May-86,7/13/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93311.0,35.338,-119.11,14.1,yes,yes,yes,yes,,,,,,kern,bird
+262,W263,3-plate3,yes,May-07,7/15/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93308.0,35.405,-119.006,19.9,yes,yes,yes,yes,,,,,,kern,bird
+263,W264,3-plate3,yes,May-36,7/26/05,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,93306.0,35.403,-118.95700000000001,27.4,yes,yes,yes,yes,,,,,,kern,bird
+264,W265,3-plate3,yes,May-49,7/28/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93314.0,35.374,-119.19,22.7,yes,yes,yes,yes,,,,,,kern,bird
+265,W266,3-plate3,yes,May-09,8/1/05,House Finch,dead bird,,USA,CA,Kern,Bakersfield,93308.0,35.408,-119.016,19.5,yes,yes,yes,yes,,,,,,kern,bird
+266,W267,3-plate3,yes,May-34,8/9/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Wasco,93280.0,35.602,-119.385,18.4,yes,yes,yes,yes,,,,,,kern,bird
+267,W268,3-plate3,yes,May-68,8/15/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93306.0,35.398,-118.931,19.7,yes,yes,yes,yes,,,,,,kern,bird
+268,W269,3-plate3,yes,May-02,8/19/05,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,93308.0,35.423,-119.07600000000001,17.7,yes,yes,yes,yes,,,,,,kern,bird
+269,W270,3-plate3,yes,May-67,8/29/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.352,-119.065,29.2,yes,yes,yes,yes,,,,,,kern,bird
+270,W271,3-plate3,yes,May-62,9/1/05,Western Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,93309.0,35.36,-119.041,17.4,yes,yes,yes,yes,,,,,,kern,bird
+271,W272,3-plate3,yes,Jun-47,7/13/06,American Robin,dead bird,,USA,CA,Kern,Bakersfield,,35.323,-119.072,28.7,yes,yes,yes,yes,,,,,,kern,bird
+272,W273,3-plate3,yes,Jun-67,7/21/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.381,-118.941,12.3,yes,yes,yes,yes,,,,,,kern,bird
+273,W274,3-plate3,yes,Jun-44,7/31/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.385999999999996,-119.20299999999999,20.3,yes,yes,yes,yes,,,,,,kern,bird
+274,W275,3-plate3,yes,Jun-09,8/1/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.376999999999995,-119.12200000000001,17.2,yes,yes,yes,yes,,,,,,kern,bird
+275,W276,3-plate3,yes,Jun-96,8/2/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.373000000000005,-119.14399999999999,19.6,yes,yes,yes,yes,,,,,,kern,bird
+276,W277,3-plate3,yes,Jun-46,8/3/06,Raven,dead bird,,USA,CA,Kern,Bakersfield,,35.39,-118.96700000000001,28.5,yes,yes,yes,yes,,,,,,kern,bird
+277,W278,3-plate3,yes,Jun-40,8/9/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.328,-119.01899999999999,18.8,yes,yes,yes,yes,,,,,,kern,bird
+278,W279,3-plate3,yes,Jun-48,8/14/06,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.4,-119.095,19.4,yes,yes,yes,yes,,,,,,kern,bird
+279,W280,3-plate3,yes,Jun-16,8/15/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.42,-119.069,28.6,yes,yes,yes,yes,,,,,,kern,bird
+280,W281,3-plate3,yes,Jun-85,8/17/06,House Finch,dead bird,,USA,CA,Kern,Bakersfield,,35.398,-119.016,22.2,yes,yes,yes,yes,,,,,,kern,bird
+281,W282,3-plate3,yes,Jun-12,8/24/06,Black-headed Grosbeak,dead bird,,USA,CA,Kern,Bakersfield,,35.373000000000005,-119.021,32,yes,yes,yes,yes,,,,,,kern,bird
+282,W283,3-plate3,yes,Jun-21,8/30/06,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.371,-119.166,14.7,yes,yes,yes,yes,,,,,,kern,bird
+283,W284,3-plate3,yes,Jul-95,6/7/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.341,-119.065,19.1,yes,yes,yes,yes,,,,,,kern,bird
+284,W285,3-plate3,yes,Jul-53,6/13/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.361999999999995,-118.96600000000001,17.8,yes,yes,yes,yes,,,,,,kern,bird
+285,W286,3-plate3,yes,Jul-87,6/14/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.354,-118.94,22.9,yes,yes,yes,yes,,,,,,kern,bird
+286,W287,3-plate3,yes,Jul-65,6/20/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.376999999999995,-119.116,20.4,yes,yes,yes,yes,,,,,,kern,bird
+287,W288,3-plate3,yes,Jul-88,6/22/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.346,-119.064,19.4,yes,yes,yes,yes,,,,,,kern,bird
+288,W289,3-plate3,yes,Jul-27,6/25/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.288000000000004,-119.041,22.6,yes,yes,yes,yes,,,,,,kern,bird
+289,W290,3-plate3,yes,Jul-76,6/25/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.34,-119.126,15.9,yes,yes,yes,yes,,,,,,kern,bird
+290,W291,3-plate3,yes,Jul-30,6/29/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.389,-119.15,16.8,yes,yes,yes,yes,,,,,,kern,bird
+291,W292,3-plate3,yes,Jul-31,6/29/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.389,-119.15,18,yes,yes,yes,yes,,,,,,kern,bird
+292,W293,3-plate3,yes,Jul-85,7/5/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.35,-119.02799999999999,19.5,yes,yes,yes,yes,,,,,,kern,bird
+293,W294,3-plate3,yes,Jul-93,7/9/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.35,-119.06700000000001,21.3,yes,yes,yes,yes,,,,,,kern,bird
+294,W295,3-plate3,yes,Jul-94,7/9/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.346,-119.119,17.3,yes,yes,yes,yes,,,,,,kern,bird
+295,W296,3-plate3,yes,Jul-78,7/9/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.358000000000004,-119.147,25.4,yes,yes,yes,yes,,,,,,kern,bird
+296,W297,3-plate3,yes,Jul-21,7/12/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.373000000000005,-119.15799999999999,18.7,yes,yes,yes,yes,,,,,,kern,bird
+297,W298,3-plate3,yes,Jul-98,7/13/07,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.346,-119.064,16.3,yes,yes,yes,yes,,,,,,kern,bird
+298,W299,3-plate3,yes,Aug-05,6/27/08,Costa's Hummingbird,dead bird,,USA,CA,Kern,Bakersfield,,35.344,-119.051,21.3,yes,yes,yes,yes,,,,,,kern,bird
+299,W300,3-plate3,yes,08-306,3/13/08,Mourning Dove,dead bird,,USA,CA,Kern,Bakersfield,,35.347,-119.01,32.8,yes,yes,yes,yes,,,,,,kern,bird
+300,W301,3-plate3,yes,Aug-02,7/7/08,Lesser Goldfinch,dead bird,,USA,CA,Kern,Bakersfield,,35.364000000000004,-119.065,und,yes,yes,yes,yes,,,,,,kern,bird
+301,W302,3-plate3,yes,Aug-87,7/23/08,American Robin,dead bird,,USA,CA,Kern,Bakersfield,,35.372,-119.164,und,yes,yes,yes,yes,,,,,,kern,bird
+302,W303,3-plate3,yes,Aug-15,9/24/08,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.404,-119.12299999999999,und,yes,yes,yes,yes,,,,,,kern,bird
+303,W304,3-plate3,yes,09-1477,6/14/09,House Finch,dead bird,,USA,CA,Kern,Bakersfield,,35.282,-119.055,18.5,yes,yes,yes,yes,,,,,,kern,bird
+304,W305,3-plate3,yes,09-1319,6/8/09,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.402,-119.085,17.8,yes,yes,yes,yes,,,,,,kern,bird
+305,W306,3-plate3,yes,09-1533,6/16/09,Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.406,-119.066,20.3,yes,yes,yes,yes,,,,,,kern,bird
+306,W307,3-plate3,yes,09-1537,6/15/09,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.36,-119.02600000000001,21,yes,yes,yes,yes,,,,,,kern,bird
+307,W308,3-plate3,yes,09-1783,6/24/09,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.424,-119.12200000000001,17.7,yes,yes,yes,yes,,,,,,kern,bird
+308,W309,3-plate3,yes,Sep-07,7/7/09,Warbler,dead bird,,USA,CA,Kern,Shafter,,35.457,-119.189,16.7,yes,yes,yes,yes,,,,,,kern,bird
+309,W310,3-plate3,yes,Sep-23,7/13/09,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.395,-119.09200000000001,17.3,yes,yes,yes,yes,,,,,,kern,bird
+310,W311,3-plate3,yes,Sep-13,7/23/09,American Robin,dead bird,,USA,CA,Kern,Bakersfield,,35.31,-119.124,38,yes,yes,yes,yes,,,,,,kern,bird
+311,W312,3-plate3,yes,10-1311,7/6/10,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.327,-119.083,23.4,yes,yes,yes,yes,,,,,,kern,bird
+312,W313,3-plate3,yes,10-1410,7/12/10,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.347,-119.06700000000001,15.9,yes,yes,yes,yes,,,,,,kern,bird
+313,W314,3-plate3,yes,10-1573,7/19/10,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.347,-119.06700000000001,16.4,yes,yes,yes,yes,,,,,,kern,bird
+314,W315,3-plate3,yes,10-1680,7/22/10,Unknown Bird,dead bird,,USA,CA,Kern,Bakersfield,,35.367,-119.152,und,yes,yes,yes,yes,,,,,,kern,bird
+315,W316,3-plate3,yes,10-1704,7/22/10,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.33,-119.089,17.1,yes,yes,yes,yes,,,,,,kern,bird
+316,W317,3-plate3,yes,10-1712,7/23/10,House Finch,dead bird,,USA,CA,Kern,Bakersfield,,35.412,-119.103,31.3,yes,yes,yes,yes,,,,,,kern,bird
+317,W318,3-plate3,yes,10-1736,7/26/10,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.407,-118.92,19.9,yes,yes,yes,yes,,,,,,kern,bird
+318,W319,3-plate3,yes,10-1759,7/26/10,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.366,-119.15700000000001,21.8,yes,yes,yes,yes,,,,,,kern,bird
+319,W320,3-plate3,yes,10-1777,7/28/10,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.372,-118.965,12.9,yes,yes,yes,yes,,,,,,kern,bird
+320,W321,3-plate3,yes,11-1046,6/17/11,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.378,-118.93799999999999,und,yes,yes,yes,yes,,,,,,kern,bird
+321,W322,3-plate3,yes,11-1047,6/17/11,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.378,-118.93799999999999,und,yes,yes,yes,yes,,,,,,kern,bird
+322,W323,3-plate3,yes,11-1734,8/5/11,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.412,-119.095,27.8,yes,yes,yes,yes,,,,,,kern,bird
+323,W324,3-plate3,yes,11-1758,8/8/11,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.351,-119.068,15.6,yes,yes,yes,yes,,,,,,kern,bird
+324,W325,3-plate3,yes,11-1760,8/8/11,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.37,-119.14200000000001,22.6,yes,yes,yes,yes,,,,,,kern,bird
+325,W326,3-plate3,yes,Nov-59,11/15/11,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.403,-119.03299999999999,28.6,yes,yes,yes,yes,,,,,,kern,bird
+326,W327,3-plate3,yes,Nov-73,11/17/11,House Sparrow,dead bird,,USA,CA,Kern,Bakersfield,,35.414,-119.11399999999999,35.4,yes,yes,yes,yes,,,,,,kern,bird
+327,W328,3-plate3,yes,12-1421,6/8/12,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.356,-119.046,14.9,yes,yes,yes,yes,,,,,,kern,bird
+328,W329,3-plate3,yes,12-1487,6/10/12,Brewer's Blackbird,dead bird,,USA,CA,Kern,Bakersfield,,35.396,-119.15100000000001,35.3,yes,yes,yes,yes,,,,,,kern,bird
+329,W330,3-plate3,yes,12-1525,6/12/12,Allen's Hummingbird,dead bird,,USA,CA,Kern,Bakersfield,,35.266999999999996,-119.016,31.9,yes,yes,yes,yes,,,,,,kern,bird
+330,W331,3-plate3,yes,12-1599,6/13/12,American Kestrel,dead bird,,USA,CA,Kern,Bakersfield,,35.361999999999995,-119.025,19.8,yes,yes,yes,yes,,,,,,kern,bird
+331,W332,3-plate3,yes,12-1741,6/18/12,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.344,-119.051,12.8,yes,yes,yes,yes,,,,,,kern,bird
+332,W333,3-plate3,yes,Dec-34,6/24/12,American Crow,dead bird,,USA,CA,Kern,Bakersfield,,35.385999999999996,-119.031,15.6,yes,yes,yes,yes,,,,,,kern,bird
+333,W334,3-plate3,yes,Dec-72,7/9/12,House Finch,dead bird,,USA,CA,Kern,Bakersfield,,35.385999999999996,-119.031,13.7,yes,yes,yes,yes,,,,,,kern,bird
+334,W335,3-plate3,yes,Dec-18,7/10/12,American Crow,dead bird,,USA,CA,Kern,Bakersfield,,35.428000000000004,-119.03,15.4,yes,yes,yes,yes,,,,,,kern,bird
+335,W336,3-plate3,yes,Dec-97,7/11/12,American Crow,dead bird,,USA,CA,Kern,Bakersfield,,35.383,-119.03,und,yes,yes,yes,yes,,,,,,kern,bird
+336,W337,3-plate3,yes,Dec-40,7/31/12,American Crow,dead bird,,USA,CA,Kern,Bakersfield,,35.406,-118.984,25.4,yes,yes,yes,yes,,,,,,kern,bird
+337,W338,3-plate3,yes,13-105,2/4/13,Great-tailed Grackle,dead bird,,USA,CA,Kern,Bakersfield,,35.369,-118.936,und,yes,yes,yes,yes,,,,,,kern,bird
+338,W339,3-plate3,yes,13-1274,6/10/13,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.406,-119.03200000000001,12.3,yes,yes,yes,yes,,,,,,kern,bird
+339,W340,3-plate3,yes,13-1894,7/8/13,California Scrub-Jay,dead bird,,USA,CA,Kern,Bakersfield,,35.275,-119.041,19.5,yes,yes,yes,yes,,,,,,kern,bird
+340,W341,3-plate3,yes,13-2709,7/31/13,Northern Mockingbird,dead bird,,USA,CA,Kern,Bakersfield,,35.408,-118.941,und,yes,yes,yes,yes,,,,,,kern,bird
+341,W342,3-plate3,yes,17-1059,7/4/17,American Crow,dead bird,,USA,CA,Kern,Bakersfield,,35.389,-119.09700000000001,21.3,yes,yes,yes,yes,,,,,,kern,bird
+342,W343,3-plate3,yes,17-1102,7/7/17,American Crow,dead bird,,USA,CA,Kern,Bakersfield,,35.351,-119.09100000000001,24.8,yes,yes,yes,yes,,,,,,kern,bird
+343,W344,3-plate4,yes,04-274,8/5/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,20.7,yes,yes,yes,yes,,,,,,kern,mosquito
+344,W345,3-plate4,yes,04-277,8/5/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.198,-118.833,18.1,yes,yes,yes,yes,,,,,,kern,mosquito
+345,W346,3-plate4,yes,04-278,8/5/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.198,-118.833,18,yes,yes,yes,yes,,,,,,kern,mosquito
+346,W347,3-plate4,yes,04-284,8/10/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.275999999999996,-119.09899999999999,19.1,yes,yes,yes,yes,,,,,,kern,mosquito
+347,W348,3-plate4,yes,04-287,8/11/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.198,-118.833,17,yes,yes,yes,yes,,,,,,kern,mosquito
+348,W349,3-plate4,yes,04-291,8/11/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.283,-118.932,21.4,yes,yes,yes,yes,,,,,,kern,mosquito
+349,W350,3-plate4,yes,04-293,8/11/04,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.166,-118.825,20.8,yes,yes,yes,yes,,,,,,kern,mosquito
+350,W351,3-plate4,yes,04-301,8/12/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.493,-119.272,24.2,yes,yes,yes,yes,,,,,,kern,mosquito
+351,W352,3-plate4,yes,04-303,8/12/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bowerbank,,35.403,-119.395,20.6,yes,yes,yes,yes,,,,,,kern,mosquito
+352,W353,3-plate4,yes,04-306,8/12/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Greenacres,,35.38,-119.111,21.7,yes,yes,yes,yes,,,,,,kern,mosquito
+353,W354,3-plate4,yes,04-316,8/13/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.075,20.4,yes,yes,yes,yes,,,,,,kern,mosquito
+354,W355,3-plate4,yes,04-319,8/13/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.299,-119.00399999999999,23.7,yes,yes,yes,yes,,,,,,kern,mosquito
+355,W356,3-plate4,yes,04-429,9/21/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.428000000000004,-119.115,20.5,yes,yes,yes,yes,,,,,,kern,mosquito
+356,W357,3-plate4,yes,04-442,9/23/04,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.365,-118.99799999999999,21,yes,yes,yes,yes,,,,,,kern,mosquito
+357,W358,3-plate4,yes,05-197,6/21/05,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.351,-119.162,22.4,yes,yes,yes,yes,,,,,,kern,mosquito
+358,W359,3-plate4,yes,05-242,7/1/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.109,21.5,yes,yes,yes,yes,,,,,,kern,mosquito
+359,W360,3-plate4,yes,05-246,7/1/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,18.2,yes,yes,yes,yes,,,,,,kern,mosquito
+360,W361,3-plate4,yes,05-248,7/1/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.075,19.2,yes,yes,yes,yes,,,,,,kern,mosquito
+361,W362,3-plate4,yes,05-254,7/6/05,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.351,-119.162,19,yes,yes,yes,yes,,,,,,kern,mosquito
+362,W363,3-plate4,yes,05-258,7/6/05,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.428000000000004,-119.115,19.1,yes,yes,yes,yes,,,,,,kern,mosquito
+363,W364,3-plate4,yes,05-283,7/7/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.507,-119.265,19.7,yes,yes,yes,yes,,,,,,kern,mosquito
+364,W365,3-plate4,yes,05-292,7/14/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.299,-119.00399999999999,18.5,yes,yes,yes,yes,,,,,,kern,mosquito
+365,W366,3-plate4,yes,05-297,7/14/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.378,-119.036,18.6,yes,yes,yes,yes,,,,,,kern,mosquito
+366,W367,3-plate4,yes,05-298,7/14/05,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.378,-119.036,24.3,yes,yes,yes,yes,,,,,,kern,mosquito
+367,W368,3-plate4,yes,05-306,7/19/05,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.245,-119.236,19.5,yes,yes,yes,yes,,,,,,kern,mosquito
+368,W369,3-plate4,yes,06-298,7/11/06,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.32,-119.12899999999999,20.1,yes,yes,yes,yes,,,,,,kern,mosquito
+369,W370,3-plate4,yes,06-299*,7/11/06,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.275999999999996,-119.09899999999999,19.7,yes,yes,yes,yes,,,,,,kern,mosquito
+370,W371,3-plate4,yes,06-303,7/11/06,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.245,-119.236,18.6,yes,yes,yes,yes,,,,,,kern,mosquito
+371,W372,3-plate4,yes,06-304,7/11/06,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.245,-119.236,20.6,yes,yes,yes,yes,,,,,,kern,mosquito
+372,W373,3-plate4,yes,06-331,7/14/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.378,-119.036,18.9,yes,yes,yes,yes,,,,,,kern,mosquito
+373,W374,3-plate4,yes,06-336,7/21/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,21.5,yes,yes,yes,yes,,,,,,kern,mosquito
+374,W375,3-plate4,yes,06-338,7/21/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.349000000000004,-119.04,19,yes,yes,yes,yes,,,,,,kern,mosquito
+375,W376,3-plate4,yes,06-340,7/21/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,23.6,yes,yes,yes,yes,,,,,,kern,mosquito
+376,W377,3-plate4,yes,06-342,7/21/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.299,-119.00399999999999,20.9,yes,yes,yes,yes,,,,,,kern,mosquito
+377,W378,3-plate4,yes,06-343,7/21/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,20.5,yes,yes,yes,yes,,,,,,kern,mosquito
+378,W379,3-plate4,yes,06-345,7/21/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.075,18.6,yes,yes,yes,yes,,,,,,kern,mosquito
+379,W380,3-plate4,yes,06-375,8/4/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,19.1,yes,yes,yes,yes,,,,,,kern,mosquito
+380,W381,3-plate4,yes,06-376,8/4/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,17.5,yes,yes,yes,yes,,,,,,kern,mosquito
+381,W382,3-plate4,yes,06-377,8/4/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,22.2,yes,yes,yes,yes,,,,,,kern,mosquito
+382,W383,3-plate4,yes,06-381,8/4/06,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,24,yes,yes,yes,yes,,,,,,kern,mosquito
+383,W384,3-plate4,yes,Jul-72,6/5/07,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.251999999999995,-119.236,25.2,yes,yes,yes,yes,,,,,,kern,mosquito
+384,W385,3-plate4,yes,Jul-78,6/6/07,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.29,-118.979,21.2,yes,yes,yes,yes,,,,,,kern,mosquito
+385,W386,3-plate4,yes,Jul-96,6/8/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,22.4,yes,yes,yes,yes,,,,,,kern,mosquito
+386,W387,3-plate4,yes,07-116,6/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,18.4,yes,yes,yes,yes,,,,,,kern,mosquito
+387,W388,3-plate4,yes,07-184,6/22/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.075,19.8,yes,yes,yes,yes,,,,,,kern,mosquito
+388,W389,3-plate4,yes,07-333,8/3/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,19.9,yes,yes,yes,yes,,,,,,kern,mosquito
+389,W390,3-plate4,yes,07-334,8/3/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,18.5,yes,yes,yes,yes,,,,,,kern,mosquito
+390,W391,3-plate4,yes,07-356,8/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.198,-118.833,23.5,yes,yes,yes,yes,,,,,,kern,mosquito
+391,W392,3-plate4,yes,07-358,8/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,22,yes,yes,yes,yes,,,,,,kern,mosquito
+392,W393,3-plate4,yes,07-361,8/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Greenacres,,35.38,-119.111,22,yes,yes,yes,yes,,,,,,kern,mosquito
+393,W394,3-plate4,yes,07-363,8/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,22.1,yes,yes,yes,yes,,,,,,kern,mosquito
+394,W395,3-plate4,yes,07-367,8/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,18.5,yes,yes,yes,yes,,,,,,kern,mosquito
+395,W396,3-plate4,yes,07-369,8/15/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.075,18.8,yes,yes,yes,yes,,,,,,kern,mosquito
+396,W397,3-plate4,yes,07-370,8/17/07,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.352,-119.149,21.9,yes,yes,yes,yes,,,,,,kern,mosquito
+397,W398,3-plate4,yes,09-176,6/17/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Greenacres,,35.391999999999996,-119.115,25.4,yes,yes,yes,yes,,,,,,kern,mosquito
+398,W399,3-plate4,yes,09-179,6/17/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Greenacres,,35.38,-119.111,26.8,yes,yes,yes,yes,,,,,,kern,mosquito
+399,W400,3-plate4,yes,09-234,6/30/09,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.1,20.6,yes,yes,yes,yes,,,,,,kern,mosquito
+400,W401,3-plate4,yes,09-251,7/1/09,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.283,-118.932,19,yes,yes,yes,yes,,,,,,kern,mosquito
+401,W402,3-plate4,yes,09-291,7/14/09,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.275999999999996,-119.09899999999999,22.3,yes,yes,yes,yes,,,,,,kern,mosquito
+402,W403,3-plate4,yes,09-293,7/14/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.342,-119.125,20,yes,yes,yes,yes,,,,,,kern,mosquito
+403,W404,3-plate4,yes,09-306,7/15/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,21.3,yes,yes,yes,yes,,,,,,kern,mosquito
+404,W405,3-plate4,yes,09-309,7/15/09,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.166,-118.825,21.8,yes,yes,yes,yes,,,,,,kern,mosquito
+405,W406,3-plate4,yes,09-347,7/22/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.411,-119.14299999999999,21.7,yes,yes,yes,yes,,,,,,kern,mosquito
+406,W407,3-plate4,yes,09-375,7/28/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.391,-118.956,21.9,yes,yes,yes,yes,,,,,,kern,mosquito
+407,W408,3-plate4,yes,09-381,7/29/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Greenacres,,35.391999999999996,-119.115,24.9,yes,yes,yes,yes,,,,,,kern,mosquito
+408,W409,3-plate4,yes,09-400,7/30/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.21,-118.833,22.7,yes,yes,yes,yes,,,,,,kern,mosquito
+409,W410,3-plate4,yes,09-527,9/4/09,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.501999999999995,-119.25399999999999,22.2,yes,yes,yes,yes,,,,,,kern,mosquito
+410,W411,3-plate4,yes,09-530,9/4/09,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Wasco,,35.532,-119.477,22.1,yes,yes,yes,yes,,,,,,kern,mosquito
+411,W412,3-plate4,yes,10-280,6/15/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.399,-118.928,24.2,yes,yes,yes,yes,,,,,,kern,mosquito
+412,W413,3-plate4,yes,10-406,6/25/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,22,yes,yes,yes,yes,,,,,,kern,mosquito
+413,W414,3-plate4,yes,10-414,6/29/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.399,-118.928,16.4,yes,yes,yes,yes,,,,,,kern,mosquito
+414,W415,3-plate4,yes,10-457,7/1/10,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.313,-119.02600000000001,20,yes,yes,yes,yes,,,,,,kern,mosquito
+415,W416,3-plate4,yes,10-458,7/1/10,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.336,-119.025,19.1,yes,yes,yes,yes,,,,,,kern,mosquito
+416,W417,3-plate4,yes,10-500,7/8/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,21.4,yes,yes,yes,yes,,,,,,kern,mosquito
+417,W418,3-plate4,yes,10-501,7/8/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,21.3,yes,yes,yes,yes,,,,,,kern,mosquito
+418,W419,3-plate4,yes,10-541,7/9/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.317,-119.06,18.8,yes,yes,yes,yes,,,,,,kern,mosquito
+419,W420,3-plate4,yes,10-547,7/9/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.075,19.2,yes,yes,yes,yes,,,,,,kern,mosquito
+420,W421,3-plate4,yes,10-738,7/28/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,20.5,yes,yes,yes,yes,,,,,,kern,mosquito
+421,W422,3-plate4,yes,10-941,8/18/10,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.158,-118.815,21.3,yes,yes,yes,yes,,,,,,kern,mosquito
+422,W423,3-plate4,yes,10-1014,8/25/10,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.158,-118.815,19,yes,yes,yes,yes,,,,,,kern,mosquito
+423,W424,3-plate4,yes,10-1090,9/2/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.493,-119.272,22.3,yes,yes,yes,yes,,,,,,kern,mosquito
+424,W425,3-plate4,yes,10-1357,9/30/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.507,-119.265,19.4,yes,yes,yes,yes,,,,,,kern,mosquito
+425,W426,3-plate4,yes,10-1377,10/5/10,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Buttonwillow,,35.436,-119.406,23.4,yes,yes,yes,yes,,,,,,kern,mosquito
+426,W427,3-plate4,yes,11-468,6/8/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.164,23.9,yes,yes,yes,yes,,,,,,kern,mosquito
+427,W428,3-plate4,yes,11-1028,7/7/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.333,-119.181,19.4,yes,yes,yes,yes,,,,,,kern,mosquito
+428,W429,3-plate4,yes,11-1103,7/8/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.501999999999995,-119.25399999999999,21.4,yes,yes,yes,yes,,,,,,kern,mosquito
+429,W430,3-plate4,yes,11-1135,7/13/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.333,-119.181,19.8,yes,yes,yes,yes,,,,,,kern,mosquito
+430,W431,3-plate4,yes,11-1137,7/13/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.164,17.8,yes,yes,yes,yes,,,,,,kern,mosquito
+431,W432,3-plate4,yes,11-1138,7/13/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.164,20.6,yes,yes,yes,yes,,,,,,kern,mosquito
+432,W433,3-plate4,yes,11-1139,7/13/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.17200000000001,21.3,yes,yes,yes,yes,,,,,,kern,mosquito
+433,W434,3-plate4,yes,11-1140,7/13/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.17200000000001,18.2,yes,yes,yes,yes,,,,,,kern,mosquito
+434,W435,3-plate4,yes,11-1194,7/15/11,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.1,22.9,yes,yes,yes,yes,,,,,,kern,mosquito
+435,W436,3-plate4,yes,11-1339,7/27/11,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.342,-119.125,20.6,yes,yes,yes,yes,,,,,,kern,mosquito
+436,W437,3-plate4,yes,11-1498,8/4/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.166,-118.825,20,yes,yes,yes,yes,,,,,,kern,mosquito
+437,W438,3-plate4,yes,11-1502,8/4/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.158,-118.815,19,yes,yes,yes,yes,,,,,,kern,mosquito
+438,W439,3-plate5,yes,11-1694,8/17/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.333,-119.181,19.4,yes,yes,yes,yes,,,,,,kern,mosquito
+439,W440,3-plate5,yes,11-1730,8/18/11,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.166,-118.825,19,yes,yes,yes,yes,,,,,,kern,mosquito
+440,W441,3-plate5,yes,12-351,5/24/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.349000000000004,-119.04,21.1,yes,yes,yes,yes,,,,,,kern,mosquito
+441,W442,3-plate5,yes,12-568,6/12/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,18.2,yes,yes,yes,yes,,,,,,kern,mosquito
+442,W443,3-plate5,yes,12-580,6/12/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.364000000000004,-119.027,19.5,yes,yes,yes,yes,,,,,,kern,mosquito
+443,W444,3-plate5,yes,12-664,6/18/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.391,-118.956,19.9,yes,yes,yes,yes,,,,,,kern,mosquito
+444,W445,3-plate5,yes,12-684,6/19/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,19.6,yes,yes,yes,yes,,,,,,kern,mosquito
+445,W446,3-plate5,yes,12-685,6/19/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,17.4,yes,yes,yes,yes,,,,,,kern,mosquito
+446,W447,3-plate5,yes,12-766,6/27/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.326,-119.008,20.2,yes,yes,yes,yes,,,,,,kern,mosquito
+447,W448,3-plate5,yes,12-803,6/28/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.339,-119.071,19.2,yes,yes,yes,yes,,,,,,kern,mosquito
+448,W449,3-plate5,yes,12-827,7/2/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.399,-118.928,18.6,yes,yes,yes,yes,,,,,,kern,mosquito
+449,W450,3-plate5,yes,12-830,7/2/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,19.4,yes,yes,yes,yes,,,,,,kern,mosquito
+450,W451,3-plate5,yes,12-868,7/5/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.1,19.4,yes,yes,yes,yes,,,,,,kern,mosquito
+451,W452,3-plate5,yes,12-1029,7/17/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.36,-119.021,17.9,yes,yes,yes,yes,,,,,,kern,mosquito
+452,W453,3-plate5,yes,12-1054,7/18/12,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.283,-118.932,18,yes,yes,yes,yes,,,,,,kern,mosquito
+453,W454,3-plate5,yes,12-1087,7/19/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.353,-119.07799999999999,18.9,yes,yes,yes,yes,,,,,,kern,mosquito
+454,W455,3-plate5,yes,12-1093,7/19/12,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Greenacres,,35.38,-119.111,19.8,yes,yes,yes,yes,,,,,,kern,mosquito
+455,W456,3-plate5,yes,13-320,7/30/13,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.283,-119.07600000000001,19.4,yes,yes,yes,yes,,,,,,kern,mosquito
+456,W457,3-plate5,yes,13-321,7/30/13,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.166,-118.825,17.9,yes,yes,yes,yes,,,,,,kern,mosquito
+457,W458,3-plate5,yes,13-322,7/30/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.158,-118.815,18,yes,yes,yes,yes,,,,,,kern,mosquito
+458,W459,3-plate5,yes,13-337,8/2/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Wheeler_Ridge,,35.032,-118.915,18.8,yes,yes,yes,yes,,,,,,kern,mosquito
+459,W460,3-plate5,yes,13-344,8/6/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.194,-118.79799999999999,18.1,yes,yes,yes,yes,,,,,,kern,mosquito
+460,W461,3-plate5,yes,13-373,8/16/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.29,-118.979,16.3,yes,yes,yes,yes,,,,,,kern,mosquito
+461,W462,3-plate5,yes,13-383,8/21/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.501,-119.478,18.3,yes,yes,yes,yes,,,,,,kern,mosquito
+462,W463,3-plate5,yes,13-404,8/27/13,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Delano,,35.598,-119.213,17,yes,yes,yes,yes,,,,,,kern,mosquito
+463,W464,3-plate5,yes,14-167,6/25/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.339,-119.071,19.8,yes,yes,yes,yes,,,,,,kern,mosquito
+464,W465,3-plate5,yes,14-168,6/25/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.342,-119.125,20.9,yes,yes,yes,yes,,,,,,kern,mosquito
+465,W466,3-plate5,yes,14-214,7/8/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.399,-118.928,21.4,yes,yes,yes,yes,,,,,,kern,mosquito
+466,W467,3-plate5,yes,14-232,7/11/14,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.283,-118.932,20.8,yes,yes,yes,yes,,,,,,kern,mosquito
+467,W468,3-plate5,yes,12-241,7/15/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.391,-118.956,20.9,yes,yes,yes,yes,,,,,,kern,mosquito
+468,W469,3-plate5,yes,14-253,7/15/14,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.201,-118.91,20.8,yes,yes,yes,yes,,,,,,kern,mosquito
+469,W470,3-plate5,yes,14-274,7/18/14,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.411,-119.14299999999999,17.8,yes,yes,yes,yes,,,,,,kern,mosquito
+470,W471,3-plate5,yes,15-137,6/12/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.411,-119.14299999999999,20.5,yes,yes,yes,yes,,,,,,kern,mosquito
+471,W472,3-plate5,yes,15-232,7/1/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.281,-119.042,21.8,yes,yes,yes,yes,,,,,,kern,mosquito
+472,W473,3-plate5,yes,15-237,7/2/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Rosedale,,35.379,-119.184,22.8,yes,yes,yes,yes,,,,,,kern,mosquito
+473,W474,3-plate5,yes,15-321,7/15/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.346,-119.1,17.2,yes,yes,yes,yes,,,,,,kern,mosquito
+474,W475,3-plate5,yes,15-323,7/15/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.339,-119.071,21.6,yes,yes,yes,yes,,,,,,kern,mosquito
+475,W476,3-plate5,yes,15-390,7/28/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.201,-118.837,21.1,yes,yes,yes,yes,,,,,,kern,mosquito
+476,W477,3-plate5,yes,15-391,7/28/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Lamont,,35.26,-118.905,20.2,yes,yes,yes,yes,,,,,,kern,mosquito
+477,W478,3-plate5,yes,15-394,7/28/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.166,-118.825,20.1,yes,yes,yes,yes,,,,,,kern,mosquito
+478,W479,3-plate5,yes,15-414,7/31/15,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.245,-119.236,18.1,yes,yes,yes,yes,,,,,,kern,mosquito
+479,W480,3-plate5,yes,15-444,8/12/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Buttonwillow,,35.355,-119.40700000000001,21.6,yes,yes,yes,yes,,,,,,kern,mosquito
+480,W481,3-plate5,yes,15-486,8/28/15,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.53,-119.196,19.8,yes,yes,yes,yes,,,,,,kern,mosquito
+481,W482,3-plate5,yes,16-327,7/12/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.21,-118.833,29.9,yes,yes,yes,yes,,,,,,kern,mosquito
+482,W483,3-plate5,yes,16-342,7/14/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.494,-119.17,28.1,yes,yes,yes,yes,,,,,,kern,mosquito
+483,W484,3-plate5,yes,16-371,7/26/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Buttonwillow,,35.436,-119.406,20.8,yes,yes,yes,yes,,,,,,kern,mosquito
+484,W485,3-plate5,yes,16-372,7/26/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Buttonwillow,,35.428000000000004,-119.406,20.7,yes,yes,yes,yes,,,,,,kern,mosquito
+485,W486,3-plate5,yes,16-376,7/28/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Delano,,35.598,-119.213,24.5,yes,yes,yes,yes,,,,,,kern,mosquito
+486,W487,3-plate5,yes,16-381,8/2/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Semitropic,,35.602,-119.508,21,yes,yes,yes,yes,,,,,,kern,mosquito
+487,W488,3-plate5,yes,16-382,8/2/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Semitropic,,35.617,-119.617,21.6,yes,yes,yes,yes,,,,,,kern,mosquito
+488,W489,3-plate5,yes,16-383,8/2/16,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Buttonwillow,,35.428000000000004,-119.406,21.3,yes,yes,yes,yes,,,,,,kern,mosquito
+489,W490,3-plate5,yes,16-410,8/18/16,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.507,-119.265,23.9,yes,yes,yes,yes,,,,,,kern,mosquito
+490,W491,3-plate5,yes,17-371,6/27/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.21,-118.833,20.9,yes,yes,yes,yes,,,,,,kern,mosquito
+491,W492,3-plate5,yes,17-373,6/27/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.194,-118.79799999999999,19.2,yes,yes,yes,yes,,,,,,kern,mosquito
+492,W493,3-plate5,yes,17-376,6/28/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.376999999999995,-119.009,22.9,yes,yes,yes,yes,,,,,,kern,mosquito
+493,W494,3-plate5,yes,17-377,6/28/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Buttonwillow,,35.501,-119.478,20.3,yes,yes,yes,yes,,,,,,kern,mosquito
+494,W495,3-plate5,yes,17-378,6/28/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Bakersfield,,35.342,-119.125,19.7,yes,yes,yes,yes,,,,,,kern,mosquito
+495,W496,3-plate5,yes,17-379,6/29/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.507,-119.265,23,yes,yes,yes,yes,,,,,,kern,mosquito
+496,W497,3-plate5,yes,17-380,6/29/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Wasco,,35.594,-119.35,29,yes,yes,yes,yes,,,,,,kern,mosquito
+497,W498,3-plate5,yes,17-389,7/5/17,Culex quinquefasciatus,whole mosquito bodies,,USA,CA,Kern,Arvin,,35.21,-118.833,30,yes,yes,yes,yes,,,,,,kern,mosquito
+498,W499,3-plate5,yes,17-395,7/7/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Shafter,,35.503,-119.28399999999999,19.1,yes,yes,yes,yes,,,,,,kern,mosquito
+499,W500,3-plate5,yes,17-397,7/7/17,Culex tarsalis,whole mosquito bodies,,USA,CA,Kern,Wasco,,35.578,-119.348,19.2,yes,yes,yes,yes,,,,,,kern,mosquito
+500,W501,4-box1,yes,208-2141,2/6/08,Hawk,kidneys (?),18740 Highland Valley Rd,USA,CA,SanDiego,Ramona,92065.0,33.021146,-116.924545,,yes,yes,yes,yes,,,,,,sandiego,bird
+501,W502,4-box1,yes,208-2252,2/6/08,American Crow,kidneys (?),9204 Bellagio Rd.,USA,CA,SanDiego,Santee,92071.0,32.855393,-117.00428400000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+502,W503,4-box1,yes,208-2284,3/12/08,American Crow,kidneys (?),1809 S. Juniper St.,USA,CA,SanDiego,Escondido,92025.0,33.105135,-117.0673,,yes,yes,yes,yes,,,,,,sandiego,bird
+503,W504,4-box1,yes,208-2826,5/8/08,Western Scrub Jay,kidneys (?),17171 Matinal Rd.,USA,CA,SanDiego,San_Diego,92127.0,33.02847,-117.092001,,yes,yes,yes,yes,,,,,,sandiego,bird
+504,W505,4-box1,yes,208-2874,5/22/08,American Crow,kidneys (?),10629 Esmeraldas DR.,USA,CA,SanDiego,San_Diego,92124.0,32.827224,-117.100852,,yes,yes,yes,yes,,,,,,sandiego,bird
+505,W506,4-box1,yes,208-3044,6/2/08,American Crow,kidneys (?),12720 Carmel Country Rd,USA,CA,SanDiego,San_Diego,92130.0,32.953199,-117.229165,,yes,yes,yes,yes,,,,,,sandiego,bird
+506,W507,4-box1,yes,208-3292,6/18/08,American Crow,kidneys (?),Jewell/Fortuna,USA,CA,SanDiego,San_Diego,92109.0,32.79184,-117.236479,,yes,yes,yes,yes,,,,,,sandiego,bird
+507,W508,4-box1,yes,208-3296,6/18/08,American Crow,kidneys (?),Jewell/Fortuna,USA,CA,SanDiego,San_Diego,92109.0,32.79184,-117.236479,,yes,yes,yes,yes,,,,,,sandiego,bird
+508,W509,4-box1,yes,208-3298,6/18/08,American Crow,kidneys (?),Jewell/Fortuna,USA,CA,SanDiego,San_Diego,92109.0,32.79184,-117.236479,,yes,yes,yes,yes,,,,,,sandiego,bird
+509,W510,4-box1,yes,208-3371,7/28/08,American Crow,kidneys (?),10675 John Jay Hopkins Dr.,USA,CA,SanDiego,San_Diego,92121.0,32.895146000000004,-117.239519,,yes,yes,yes,yes,,,,,,sandiego,bird
+510,W511,4-box1,yes,209-0511,8/6/08,American Crow,BIC,"7283 Camino De Grazia, # 17",USA,CA,SanDiego,San_Diego,92111.0,32.773019,-117.16736999999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+511,W512,4-box1,yes,209-0569,8/11/08,American Crow,BIC,12685 Futura St.,USA,CA,SanDiego,San_Diego,92131.0,32.947796999999994,-117.22315400000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+512,W513,4-box1,yes,209-0731,8/25/08,American Crow,BIC,2211 Pacific Beach Dr,USA,CA,SanDiego,San_Diego,92109.0,32.796469,-117.227668,,yes,yes,yes,yes,,,,,,sandiego,bird
+513,W514,4-box1,yes,209-0841,9/4/08,American Crow,BIC,8361 Capricorn Way,USA,CA,SanDiego,San_Diego,92126.0,32.924923,-117.14283999999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+514,W515,4-box1,yes,209-0889,9/10/08,American Crow,BIC,10666 North Torrey Pines Road,USA,CA,SanDiego,La_Jolla,92037.0,32.897333,-117.242085,,yes,yes,yes,yes,,,,,,sandiego,bird
+515,W516,4-box1,yes,209-0904,9/12/08,American Crow,BIC,2632 Penrose St.,USA,CA,SanDiego,San_Diego,92110.0,32.787902,-117.19763,,yes,yes,yes,yes,,,,,,sandiego,bird
+516,W517,4-box1,yes,209-0968,9/19/08,American Crow,BIC,2211 Pacific Beach Dr.,USA,CA,SanDiego,San_Diego,92109.0,32.796469,-117.227668,,yes,yes,yes,yes,,,,,,sandiego,bird
+517,W518,4-box1,yes,209-1003,9/23/08,American Crow,BIC,2211 Pacific Beach Dr,USA,CA,SanDiego,San_Diego,92109.0,32.796469,-117.227668,,yes,yes,yes,yes,,,,,,sandiego,bird
+518,W519,4-box1,yes,209-1022,9/24/08,American Crow,BIC,17365 Frondoso Drive,USA,CA,SanDiego,San_Diego,92128.0,33.028473999999996,-117.06011399999998,,yes,yes,yes,yes,,,,,,sandiego,bird
+519,W520,4-box1,yes,209-1023,9/24/08,American Crow,BIC,2577 Blackton Dr,USA,CA,SanDiego,San_Diego,92105.0,32.732895,-117.078396,,yes,yes,yes,yes,,,,,,sandiego,bird
+520,W521,4-box1,yes,209-1050,9/25/08,American Crow,BIC,4001 Porte De Palmas,USA,CA,SanDiego,San_Diego,92122.0,32.860639,-117.22621200000002,,yes,yes,yes,yes,,,,,,sandiego,bird
+521,W522,4-box1,yes,209-1064,9/26/09,American Crow,"BIC, Brain, Heart, Spleen, Kidney",4022 Loma Alta Dr.,USA,CA,SanDiego,San_Diego,92115.0,32.751172,-117.053252,,yes,yes,yes,yes,,,,,,sandiego,bird
+522,W523,4-box1,yes,209-1378,11/5/08,American Crow,BIC,10817 Calle Mar de Mariposa,USA,CA,SanDiego,San_Diego,92130.0,32.913077,-117.22306200000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+523,W524,4-box1,yes,209-1464,11/10/08,American Crow,BIC,3534 Yosemite St,USA,CA,SanDiego,San_Diego,92109.0,32.783474,-117.235887,,yes,yes,yes,yes,,,,,,sandiego,bird
+524,W525,4-box1,yes,209-1513,11/17/08,Coopers Hawk,BIC,9999 Olson Dr,USA,CA,SanDiego,San_Diego,92121.0,32.886070000000004,-117.19551799999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+525,W526,4-box1,yes,209-1603,12/1/08,American Crow,BIC,11280 Ganesta Rd.,USA,CA,SanDiego,San_Diego,92126.0,32.928021,-117.13946399999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+526,W527,4-box1,yes,209-1616,12/8/08,Sharp-shinned hawk,"BIC, Brain, Heart, Spleen, Kidney, Feather follicle",16608 Wikiup Rd,USA,CA,SanDiego,Ramona,92065.0,33.016027,-116.80168,,yes,yes,yes,yes,,,,,,sandiego,bird
+527,W528,4-box1,yes,209-1619,12/8/08,American Crow,"BIC, Brain, Heart, Spleen, Kidney, Feather follicle",12580 Oak Knoll Rd,USA,CA,SanDiego,Poway,92064.0,32.950590000000005,-117.05831,,yes,yes,yes,yes,,,,,,sandiego,bird
+528,W529,4-box1,yes,209-1755,12/22/08,Sharp-shinned hawk,"BIC, Brain, Heart, Spleen, Kidney",1179 Cloverleaf Dr,USA,CA,SanDiego,El_Cajon,92019.0,32.779799,-116.92436200000002,,yes,yes,yes,yes,,,,,,sandiego,bird
+529,W530,4-box1,yes,209-1879,1/16/09,American Crow,BIC,11045 Roselle St.,USA,CA,SanDiego,San_Diego,92121.0,32.905529,-117.230347,,yes,yes,yes,yes,,,,,,sandiego,bird
+530,W531,4-box1,yes,209-1944,1/26/09,American Crow,BIC,11075 Roselle St.,USA,CA,SanDiego,San_Diego,92121.0,32.905207,-117.22988600000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+531,W532,4-box1,yes,209-2042,2/5/09,American Crow,BIC,4016 Casita Way,USA,CA,SanDiego,San_Diego,92115.0,32.750945,-117.05128500000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+532,W533,4-box1,yes,209-2866,6/18/09,American Crow,BIC,10239 Trails End Circle,USA,CA,SanDiego,San_Diego,92126.0,32.90445,-117.1528,,yes,yes,yes,yes,,,,,,sandiego,bird
+533,W534,4-box1,yes,209-2896,6/23/09,American Crow,BIC,15942 Camino De Oro,USA,CA,SanDiego,Valley_Center,92082.0,33.25625,-116.98273999999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+534,W535,4-box1,yes,210-0334,9/8/09,American Crow,BIC,4274 Corte De Sausalito,USA,CA,SanDiego,San_Diego,92130.0,32.91326,-117.22247,,yes,yes,yes,yes,,,,,,sandiego,bird
+535,W536,4-box1,yes,210-0404,9/30/09,American Crow,BIC,10830 Calle Mar De Mariposa,USA,CA,SanDiego,San_Diego,92130.0,32.913323999999996,-117.22376299999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+536,W537,4-box1,yes,210-0554,10/22/09,American Crow,BIC,3465 Old Meadow Rd,USA,CA,SanDiego,San_Diego,92111.0,32.804719,-117.179047,,yes,yes,yes,yes,,,,,,sandiego,bird
+537,W538,4-box1,yes,W14-0051,7/14/14,American Crow,"BIC, Brain, Heart, Spleen, Kidney",3412 32nd St.,USA,CA,SanDiego,San_Diego,92104.0,32.741273,-117.125308,,yes,yes,yes,yes,,,,,,sandiego,bird
+538,W539,4-box1,yes,W14-0065,8/13/14,American Crow,BIC,6391 Budlong Lake Ave.,USA,CA,SanDiego,San_Diego,92119.0,32.797277,-117.020152,,yes,yes,yes,yes,,,,,,sandiego,bird
+539,W540,4-box1,yes,W14-0095,9/23/14,American Crow,BIC,8800 Navajo Rd.,USA,CA,SanDiego,San_Diego,92119.0,32.802985,-117.008002,,yes,yes,yes,yes,,,,,,sandiego,bird
+540,W541,4-box1,yes,W14-0102,9/29/14,American Crow,BIC,1347 Frankfort Street,USA,CA,SanDiego,San_Diego,92110.0,32.775278,-117.205258,,yes,yes,yes,yes,,,,,,sandiego,bird
+541,W542,4-box1,yes,W14-0106,10/2/14,American Crow,BIC,"887 Sherman St,",USA,CA,SanDiego,San_Diego,92110.0,32.763296999999994,-117.199852,,yes,yes,yes,yes,,,,,,sandiego,bird
+542,W543,4-box1,yes,W14-0136,11/10/14,American Crow,BIC,7777 Topaz Lake Ave.,USA,CA,SanDiego,San_Diego,92119.0,32.795126,-117.03057,,yes,yes,yes,yes,,,,,,sandiego,bird
+543,W544,4-box1,yes,W14-0140,11/13/14,American Crow,BIC,16310 Arena Dr.,USA,CA,SanDiego,Ramona,92065.0,33.011424,-116.812799,,yes,yes,yes,yes,,,,,,sandiego,bird
+544,W545,4-box1,yes,W14-0142,11/17/14,American Crow,BIC,11413 Matinal Circle,USA,CA,SanDiego,San_Diego,92127.0,33.02933,-117.084227,,yes,yes,yes,yes,,,,,,sandiego,bird
+545,W546,4-box1,yes,W14-0152,12/18/14,Hawk,"BIC, Brain, Heart, Spleen, Kidney",5871 Despejo Place,USA,CA,SanDiego,San_Diego,92124.0,32.839555,-117.10057900000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+546,W547,4-box1,yes,W14-0154,12/18/14,Raven,BIC,8302 Lake Adlon Dr,USA,CA,SanDiego,San_Diego,92119.0,32.797497,-117.01815400000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+547,W548,4-box1,yes,W14-0155,12/16/14,Raven,NEGATIVE??,53rd St and Krenning St,USA,CA,SanDiego,San_Diego,92105.0,32.735915999999996,-117.081402,,yes,yes,yes,yes,,,,,,sandiego,bird
+548,W549,4-box2,yes,15-B-00055-B,4/16/15,American Crow,BIC,7790 Convoy Ct.,USA,CA,SanDiego,San_Diego,92111.0,32.835012,-117.153148,,yes,yes,yes,yes,,,,,,sandiego,bird
+549,W550,4-box2,yes,15-B-00058-B,4/28/15,American Crow,BIC,5163 Bothe Ave.,USA,CA,SanDiego,San_Diego,92122.0,32.84016,-117.229244,,yes,yes,yes,yes,,,,,,sandiego,bird
+550,W551,4-box2,yes,15-B-00074-B,5/11/15,American Crow,BIC,1494 shipley ct,USA,CA,SanDiego,San_Diego,92114.0,32.720924,-117.03611299999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+551,W552,4-box2,yes,15-B-00136-B,6/5/15,American Crow,BIC,2920 Zoo Dr.,USA,CA,SanDiego,San_Diego,92101.0,32.736067,-117.14927,,yes,yes,yes,yes,,,,,,sandiego,bird
+552,W553,4-box2,yes,15-B-00168-B,7/2/15,American Crow,BIC,12603 Crest Knolls Ct.,USA,CA,SanDiego,San_Diego,92130.0,32.948362,-117.218396,,yes,yes,yes,yes,,,,,,sandiego,bird
+553,W554,4-box2,yes,15-B-00175-B,7/2/15,American Crow,BIC,2162 Clematis St.,USA,CA,SanDiego,San_Diego,92105.0,32.72895,-117.09616100000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+554,W555,4-box2,yes,15-B-00193-B,7/9/15,Western Scrub Jay,BIC,14796 Penasquitos Ct.,USA,CA,SanDiego,San_Diego,92129.0,32.983218,-117.094349,,yes,yes,yes,yes,,,,,,sandiego,bird
+555,W556,4-box2,yes,15-B-00204-B,7/21/15,American Crow,BIC,11174 Westonhill Dr.,USA,CA,SanDiego,San_Diego,92126.0,32.927275,-117.13610700000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+556,W557,4-box2,yes,15-B-00209-B,7/28/15,Western Scrub Jay,BIC,1148 Moana Dr.,USA,CA,SanDiego,San_Diego,92107.0,32.727965999999995,-117.246567,,yes,yes,yes,yes,,,,,,sandiego,bird
+557,W558,4-box2,yes,15-B-00214-B,8/3/15,American Crow,BIC,14046 Collins Ranch Pl.,USA,CA,SanDiego,San_Diego,92130.0,32.971693,-117.167295,,yes,yes,yes,yes,,,,,,sandiego,bird
+558,W559,4-box2,yes,15-B-00218-B,8/4/15,American Crow,BIC,10811 Montego Dr.,USA,CA,SanDiego,San_Diego,92124.0,32.828128,-117.096753,,yes,yes,yes,yes,,,,,,sandiego,bird
+559,W560,4-box2,yes,15-B-00240-B,8/17/15,American Crow,BIC,6767 51st St.,USA,CA,SanDiego,San_Diego,92120.0,32.795017,-117.08268600000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+560,W561,4-box2,yes,15-B-00242-B,8/19/15,American Crow,BIC,10455 Pacific Center Ct.,USA,CA,SanDiego,Mira_Mesa,92121.0,32.90773,-117.18749299999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+561,W562,4-box2,yes,15-B-00262-B,8/24/15,American Crow,BIC,2286 Harrison Ave.,USA,CA,SanDiego,San_Diego,92113.0,32.700567,-117.13450800000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+562,W563,4-box2,yes,15-B-00264-B,8/25/15,American Crow,BIC,5027 Mt. Harris Dr.,USA,CA,SanDiego,San_Diego,92117.0,32.823676,-117.18641799999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+563,W564,4-box2,yes,15-B-00283-B,9/1/15,American Crow,BIC,2211 Pacific Beach Dr.,USA,CA,SanDiego,San_Diego,92109.0,32.796177,-117.22453600000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+564,W565,4-box2,yes,15-B-00294-B,9/3/15,American Crow,BIC,3940 7th Ave.,USA,CA,SanDiego,San_Diego,92103.0,32.748995,-117.158653,,yes,yes,yes,yes,,,,,,sandiego,bird
+565,W566,4-box2,yes,15-B-00308-B,9/8/15,American Crow,BIC,9920 Corridor St.,USA,CA,SanDiego,San_Diego,92131.0,32.903876000000004,-117.092198,,yes,yes,yes,yes,,,,,,sandiego,bird
+566,W567,4-box2,yes,15-B-00313-B,9/10/15,American Crow,BIC,10666 N. Torrey Pines Rd,USA,CA,SanDiego,San_Diego,92037.0,32.896941,-117.24247199999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+567,W568,4-box2,yes,15-B-00315-B,9/10/15,American Crow,BIC,7698 Lake Adlon Dr,USA,CA,SanDiego,San_Diego,92119.0,32.799819,-117.03057199999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+568,W569,4-box2,yes,15-B-00369-B,9/22/15,American Crow,BIC,6108 Tarragona Dr.,USA,CA,SanDiego,San_Diego,92115.0,32.75578,-117.064301,,yes,yes,yes,yes,,,,,,sandiego,bird
+569,W570,4-box2,yes,15-B-00370-B,9/22/15,American Crow,BIC,1704 Rosecrans St.,USA,CA,SanDiego,San_Diego,92106.0,32.728878,-117.225904,,yes,yes,yes,yes,,,,,,sandiego,bird
+570,W571,4-box2,yes,15-B-00371-B,9/22/15,American Crow,BIC,5480 Gaines St.,USA,CA,SanDiego,San_Diego,92110.0,32.765833,-117.19356499999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+571,W572,4-box2,yes,15-B-00397-B,9/28/15,American Crow,BIC,16587 4S Ranch Pkwy.,USA,CA,SanDiego,San_Diego,92127.0,33.014215,-117.11560800000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+572,W573,4-box2,yes,15-B-00413-B,10/1/15,American Crow,BIC,6754 Antigua Blvd,USA,CA,SanDiego,San_Diego,92108.0,32.837148,-117.085678,,yes,yes,yes,yes,,,,,,sandiego,bird
+573,W574,4-box2,yes,15-B-00420-B,10/2/15,American Crow,BIC,Weatley St.,USA,CA,SanDiego,San_Diego,92111.0,32.794804,-117.165254,,yes,yes,yes,yes,,,,,,sandiego,bird
+574,W575,4-box2,yes,15-B-00433-B,10/6/15,American Crow,BIC,6060 Cameron ct,USA,CA,SanDiego,San_Diego,92139.0,32.667949,-117.058198,,yes,yes,yes,yes,,,,,,sandiego,bird
+575,W576,4-box2,yes,15-B-00441-B,10/7/15,American Crow,BIC,4378 33rd Pl,USA,CA,SanDiego,San_Diego,92104.0,32.756739,-117.12335700000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+576,W577,4-box2,yes,15-B-00451-B,10/10/15,American Crow,BIC,12587 Perla Ct.,USA,CA,SanDiego,San_Diego,92128.0,33.022663,-117.05898300000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+577,W578,4-box2,yes,15-B-00470-B,10/16/15,American Crow,BIC,2741 Luna Ave,USA,CA,SanDiego,San_Diego,92117.0,32.834418,-117.226143,,yes,yes,yes,yes,,,,,,sandiego,bird
+578,W579,4-box2,yes,15-B-00518-B,11/2/15,American Crow,BIC,3104 Malaga St.,USA,CA,SanDiego,San_Diego,92110.0,32.747121,-117.211808,,yes,yes,yes,yes,,,,,,sandiego,bird
+579,W580,4-box2,yes,15-B-00551-B,11/16/15,American Crow,BIC,4422 Newport Ave,USA,CA,SanDiego,San_Diego,92107.0,32.740965,-117.24085900000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+580,W581,4-box2,yes,15-B-00552-B,11/17/15,American Crow,BIC,11403 Matinal Cir,USA,CA,SanDiego,San_Diego,92127.0,33.029332000000004,-117.08455500000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+581,W582,4-box2,yes,15-B-00585-B,12/11/15,Sharp-shinned Hawk,"BIC, Brain, Heart, Spleen, Kidney",4844 68th St,USA,CA,SanDiego,San_Diego,92115.0,32.766802,-117.051557,,yes,yes,yes,yes,,,,,,sandiego,bird
+582,W583,4-box2,yes,15-B-00598-B,12/28/15,Red-shouldered Hawk,"BIC, Brain, Heart, Spleen, Kidney",18351 Verano Pl,USA,CA,SanDiego,San_Diego,92128.0,33.043881,-117.064958,,yes,yes,yes,yes,,,,,,sandiego,bird
+583,W584,4-box2,yes,16-B-00643-B,2/27/16,American Crow,BIC,2775 Montigo Cove,USA,CA,SanDiego,Del_Mar,92014.0,32.946005,-117.245028,,yes,yes,yes,yes,,,,,,sandiego,bird
+584,W585,4-box2,yes,16-B-00644-B,2/28/16,American Crow,BIC,2765 Montigo Cove,USA,CA,SanDiego,Del_Mar,92014.0,32.946088,-117.245356,,yes,yes,yes,yes,,,,,,sandiego,bird
+585,W586,4-box2,yes,16-B-00652-B,3/16/16,American Crow,BIC,810 Paula St,USA,CA,SanDiego,Escondido,92027.0,33.147110999999995,-117.05403600000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+586,W587,4-box2,yes,16-B-00660-B,4/11/16,American Crow,BIC,3799 Clairemont Dr.,USA,CA,SanDiego,San_Diego,92117.0,32.80903,-117.19951200000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+587,W588,4-box2,yes,16-B-00664-B,4/28/16,American Crow,BIC,12645 Hickory Ct.,USA,CA,SanDiego,Poway,92064.0,32.964859000000004,-117.05449399999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+588,W589,4-box2,yes,16-B-00669-B,4/21/16,American Crow,BIC,5500 Campenile Dr.,USA,CA,SanDiego,San_Diego,92182.0,32.772133000000004,-117.07266499999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+589,W590,4-box2,yes,17-B-01057-B,6/9/17,American Crow,BIC,2189 VISTA GRANDE DR,USA,CA,SanDiego,Vista,92084.0,33.235273,-117.216323,,yes,yes,yes,yes,,,,,,sandiego,bird
+590,W591,4-box2,yes,17-B-01064-B,7/6/17,American Crow,BIC,7690 VOLCLAY DR,USA,CA,SanDiego,San_Diego,92119.0,32.814235,-117.0447,,yes,yes,yes,yes,,,,,,sandiego,bird
+591,W592,4-box2,yes,17-B-01073-B,8/4/17,American Crow,BIC,9777 VIA DE LA AMISTAD,USA,CA,SanDiego,San_Diego,92154.0,32.5518614,-116.9357264,,yes,yes,yes,yes,,,,,,sandiego,bird
+592,W593,4-box2,yes,17-B-01078-T,8/15/17,American Crow,BIC,15500 - 15678 SAN PASQUAL VALLEY RD,USA,CA,SanDiego,Escondido,92027.0,33.0938898,-117.00129390000001,,yes,yes,yes,yes,,,,,,sandiego,bird
+593,W594,4-box2,yes,17-B-01085-B,8/24/17,American Crow,BIC,11427 MATINAL CIR,USA,CA,SanDiego,San_Diego,92127.0,33.02970928,-117.08355309999999,,yes,yes,yes,yes,,,,,,sandiego,bird
+594,W595,4-box2,yes,17-B-01093-T,9/11/17,American Crow,BIC,15500 SAN PASQUAL VALLEY,USA,CA,SanDiego,Escondido,92027.0,33.0910338,-116.9990022,,yes,yes,yes,yes,,,,,,sandiego,bird
+595,W596,4-box2,yes,17-B-01101-T,9/18/17,American Crow,BIC,2920 ZOO DR,USA,CA,SanDiego,San_Diego,92101.0,32.7340907,-117.15049199999999,,yes,yes,yes,,,,,,,sandiego,bird
+596,W597,4-box2,yes,17-B-01105-B,9/25/17,American Crow,BIC,23368 Japatul Valley Rd,USA,CA,SanDiego,Alpine,91901.0,32.8007321,-116.64427420000001,,yes,yes,yes,,,,,,,sandiego,bird
+597,W598,4-box2,yes,17-B-01119-B,10/24/17,American Crow,BIC,9 HARBINSON AVE,USA,CA,SanDiego,La_Mesa,91942.0,32.765965,-117.04205300000001,,yes,yes,yes,,,,,,,sandiego,bird
+598,W599,4-box2,yes,17-B-01121-B,10/30/17,Merlin,BIC,6333 - 6363 GREENWICH DR,USA,CA,SanDiego,San_Diego,92122.0,32.85597,-117.184779,,yes,yes,yes,,,,,,,sandiego,bird
+599,W600,4-box2,yes,17-B-01132-T,12/18/17,American Crow,BIC,15500 - 15678 SAN PASQUAL VALLEY RD,USA,CA,SanDiego,Escondido,92027.0,33.0938898,-117.00129390000001,,yes,yes,yes,,,,,,,sandiego,bird
+600,W601,4-box3,yes,15-Q-00067,6/5/15,Culex quinquefasciatus,whole mosquito bodies,1434 Shipley Ct,USA,CA,SanDiego,San_Diego,92114.0,32.7197452,-117.03619259999999,,yes,yes,yes,,,,,,,sandiego,mosquito
+601,W602,4-box3,yes,15-Q-00095,6/11/15,Culex quinquefasciatus,whole mosquito bodies,1494 Shipley Ct,USA,CA,SanDiego,San_Diego,92114.0,32.72092369999999,-117.03611299999999,,yes,yes,yes,,,,,,,sandiego,mosquito
+602,W603,4-box3,yes,15-Q-00096,6/11/15,Culex quinquefasciatus,whole mosquito bodies,1494 Shipley Ct,USA,CA,SanDiego,San_Diego,92114.0,32.72092369999999,-117.03611299999999,,yes,yes,yes,,,,,,,sandiego,mosquito
+603,W604,4-box3,yes,15-Q-00097,6/15/15,Culex quinquefasciatus,whole mosquito bodies,1494 Shipley Ct,USA,CA,SanDiego,San_Diego,92114.0,32.72092369999999,-117.03611299999999,,yes,yes,yes,,,,,,,sandiego,mosquito
+604,W605,4-box3,yes,15-Q-00255,9/11/15,Culex quinquefasciatus,whole mosquito bodies,4444 Zion Ave,USA,CA,SanDiego,San_Diego,92120.0,32.793220399999996,-117.0990793,,yes,yes,yes,,,,,,,sandiego,mosquito
+605,W606,4-box3,yes,15-Q-00256,9/11/15,Culex stigmatosoma,whole mosquito bodies,4445 Zion Ave,USA,CA,SanDiego,San_Diego,92120.0,32.793220399999996,-117.0990793,,yes,yes,yes,,,,,,,sandiego,mosquito
+606,W607,4-box3,yes,15-Q-00261,9/16/15,Culex quinquefasciatus,whole mosquito bodies,0 Gennessee Ave,USA,CA,SanDiego,San_Diego,92117.0,32.842409100000005,-117.2044996,,yes,yes,yes,,,,,,,sandiego,mosquito
+607,W608,4-box3,yes,15-Q-00262,9/16/15,Culex stigmatosoma,whole mosquito bodies,0 Gennessee Ave,USA,CA,SanDiego,San_Diego,92117.0,32.842409100000005,-117.2044996,,yes,yes,yes,,,,,,,sandiego,mosquito
+608,W609,4-box3,yes,16-Q-00419,4/20/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+609,W610,4-box3,yes,16-Q-00435,5/3/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+610,W611,4-box3,yes,16-Q-00486,5/14/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+611,W612,4-box3,yes,16-Q-00545,5/17/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+612,W613,4-box3,yes,16-Q-00551,5/17/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+613,W614,4-box3,yes,16-Q-00554,5/17/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+614,W615,4-box3,yes,16-Q-00590,5/24/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+615,W616,4-box3,yes,16-Q-00591,5/24/16,Culex tarsalis,whole mosquito bodies,11700 N TORREY PINES RD,USA,CA,SanDiego,San_Diego,92121.0,32.8981981,-117.2420784,,yes,yes,yes,,,,,,,sandiego,mosquito
+616,W617,4-box3,yes,16-Q-00625,6/9/16,Culex quinquefasciatus,whole mosquito bodies,0 CARROLL CANYON RD,USA,CA,SanDiego,San_Diego,92121.0,32.8889549,-117.2073527,,yes,yes,yes,,,,,,,sandiego,mosquito
+617,W618,4-box3,yes,16-Q-00700,6/30/16,Culex quinquefasciatus,whole mosquito bodies,0 MISSION BLVD,USA,CA,SanDiego,San_Diego,92109.0,32.798428,-117.25605800000001,,yes,yes,yes,,,,,,,sandiego,mosquito
+618,W619,4-box3,yes,16-Q-00740,7/15/16,Culex quinquefasciatus,whole mosquito bodies,826 N CAMINO DEL RIO,USA,CA,SanDiego,San_Diego,92108.0,32.76655,-117.15596000000001,,yes,yes,yes,,,,,,,sandiego,mosquito
+619,W620,4-box3,yes,16-Q-00776,7/29/16,Culex quinquefasciatus,whole mosquito bodies,3725 BELFORD ST,USA,CA,SanDiego,San_Diego,92111.0,32.811409999999995,-117.16433,,yes,yes,yes,,,,,,,sandiego,mosquito
+620,W621,4-box3,yes,16-Q-00796,8/9/16,Culex quinquefasciatus,whole mosquito bodies,3816 MARLESTA DR,USA,CA,SanDiego,San_Diego,92111.0,32.813067,-117.16517900000001,,yes,yes,yes,,,,,,,sandiego,mosquito
+621,W622,4-box3,yes,16-Q-00811,8/11/16,Culex quinquefasciatus,whole mosquito bodies,1275 30TH ST,USA,CA,SanDiego,San_Diego,92154.0,32.573088,-117.06822199999999,,yes,yes,yes,,,,,,,sandiego,mosquito
+622,W623,4-box3,yes,16-Q-00892,9/13/16,Culex quinquefasciatus,whole mosquito bodies,10360 BAYWOOD LN,USA,CA,SanDiego,San_Diego,92126.0,32.906054,-117.129892,,yes,yes,yes,,,,,,,sandiego,mosquito
+623,W624,4-box3,yes,17-Q-01379,6/30/17,Culex quinquefasciatus,whole mosquito bodies,7710 - 7780 EL CAJON BLVD,USA,CA,SanDiego,La_Mesa,91942.0,32.755379,-117.13464750000001,,yes,yes,yes,,,,,,,sandiego,mosquito
+624,W625,4-box3,yes,17-Q-01647,9/19/17,Culex quinquefasciatus,whole mosquito bodies,4169 POPLAR ST,USA,CA,SanDiego,San_Diego,92105.0,32.734532,-117.10508300000001,,yes,yes,yes,,,,,,,sandiego,mosquito
+625,W626,4-box3,yes,17-Q-01648,9/19/17,Culex quinquefasciatus,whole mosquito bodies,3504 N 47TH ST,USA,CA,SanDiego,San_Diego,92105.0,32.742343,-117.09366999999999,,yes,yes,yes,,,,,,,sandiego,mosquito
+626,W627,4-box3,yes,17-Q-01652,9/19/17,Culex quinquefasciatus,whole mosquito bodies,6099 RIO VALLE DR,USA,CA,SanDiego,Bonsall,92003.0,33.292504,-117.226923,,yes,yes,yes,,,,,,,sandiego,mosquito
+627,W628,plate1,yes,04-629,7/23/04,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.384,-121.26100000000001,18.91,yes,yes,yes,,,,,,,sacramento,mosquito
+628,W629,plate1,yes,04-633,7/23/04,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Valensin,,38.341,-121.24700000000001,20.76,yes,yes,yes,,,,,,,sacramento,mosquito
+629,W630,plate1,yes,04-741,8/6/04,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.388000000000005,-121.24700000000001,16.33,yes,yes,yes,,,,,,,sacramento,mosquito
+630,W631,plate1,yes,04-798,8/11/04,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Freeport,,38.44,-121.5,25.04,yes,yes,yes,,,,,,,sacramento,mosquito
+631,W632,plate1,yes,04-838,8/13/04,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Capay,,38.694,-122.046,20.75,yes,yes,yes,,,,,,,yolo,mosquito
+632,W633,plate1,yes,04-1085,9/17/04,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Natomas,,38.733000000000004,-121.493,21.42,yes,yes,yes,,,,,,,sacramento,mosquito
+633,W634,plate1,yes,04-1199,10/8/04,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Freeport,,38.44,-121.5,22.01,yes,yes,yes,,,,,,,sacramento,mosquito
+634,W635,plate1,yes,05-316,7/12/05,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Citrus Heights,,38.708,-121.29299999999999,20.52,yes,yes,yes,,,,,,,sacramento,mosquito
+635,W636,plate1,yes,05-319,7/12/05,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Citrus Heights,,38.671,-121.306,17.14,yes,yes,yes,,,,,,,sacramento,mosquito
+636,W637,plate1,yes,05-555,7/30/05,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.455,-121.175,20.22,yes,yes,yes,,,,,,,sacramento,mosquito
+637,W638,plate1,yes,05-705,8/5/05,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Freeport,,38.44,-121.5,17.51,yes,yes,yes,,,,,,,sacramento,mosquito
+638,W639,plate1,yes,05-1034,8/20/05,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Citrus Heights,,38.714,-121.279,17.72,yes,yes,yes,,,,,,,sacramento,mosquito
+639,W640,plate1,yes,May-75,9/7/05,Culex pipiens,Pooled mosquitoes,,USA,CA,Solano,Davis,,38.52,-121.757,24.52,yes,yes,yes,,,,,,,solano,mosquito
+640,W641,plate1,yes,May-85,9/9/05,Culex pipiens,Pooled mosquitoes,,USA,CA,Yolo,Davis,,38.556,-121.73,19.83,yes,yes,yes,,,,,,,yolo,mosquito
+641,W642,plate1,yes,06-1659,7/21/06,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.69,-121.781,18,yes,yes,yes,,,,,,,yolo,mosquito
+642,W643,plate1,yes,06-1799,7/26/06,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.513000000000005,-121.51700000000001,19.32,yes,yes,yes,,,,,,,sacramento,mosquito
+643,W644,plate1,yes,06-1857,7/26/06,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Zamora,,38.797,-121.882,17.88,yes,yes,yes,,,,,,,yolo,mosquito
+644,W645,plate1,yes,06-1882,7/26/06,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.69,-121.781,17.28,yes,yes,yes,,,,,,,yolo,mosquito
+645,W646,plate1,yes,Jun-83,8/1/06,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Galt,,38.273,-121.32600000000001,21.38,yes,yes,yes,,,,,,,sacramento,mosquito
+646,W647,plate1,yes,Jun-47,8/10/06,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Natomas,,38.729,-121.49700000000001,20.94,yes,yes,yes,,,,,,,sacramento,mosquito
+647,W648,plate1,yes,Jun-04,8/17/06,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.626999999999995,-121.478,21.04,yes,yes,yes,,,,,,,sacramento,mosquito
+648,W649,plate1,yes,Jul-68,7/6/07,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.448,-121.198,19.43,yes,yes,yes,,,,,,,sacramento,mosquito
+649,W650,plate1,yes,Jul-61,7/13/07,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.423,-121.208,18.73,yes,yes,yes,,,,,,,sacramento,mosquito
+650,W651,plate1,yes,Jul-19,7/28/07,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.661,-121.447,19.77,yes,yes,yes,,,,,,,sacramento,mosquito
+651,W652,plate1,yes,Jul-75,7/31/07,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.385,-121.219,24.32,yes,yes,yes,,,,,,,sacramento,mosquito
+652,W653,plate1,yes,Jul-62,7/31/07,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Zamora,,38.797,-121.882,20.55,yes,yes,yes,,,,,,,yolo,mosquito
+653,W654,plate1,yes,Jul-08,8/1/07,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Arden-Arcade,,38.606,-121.36,16.28,yes,yes,yes,,,,,,,sacramento,mosquito
+654,W655,plate1,yes,Jul-16,8/9/07,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.371,-121.495,20.92,yes,yes,yes,,,,,,,sacramento,mosquito
+655,W656,plate1,yes,Aug-92,7/8/08,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.444,-121.381,17.67,yes,yes,yes,,,,,,,sacramento,mosquito
+656,W657,plate1,yes,Aug-58,7/24/08,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Rio Linda,,38.707,-121.53,19.18,yes,yes,yes,,,,,,,sacramento,mosquito
+657,W658,plate1,yes,Aug-32,7/25/08,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Vineyard,,38.465,-121.34100000000001,20.9,yes,yes,yes,,,,,,,sacramento,mosquito
+658,W659,plate1,yes,Aug-09,8/12/08,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.51,-121.354,19.14,yes,yes,yes,,,,,,,sacramento,mosquito
+659,W660,plate1,yes,Aug-10,8/13/08,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.562,-121.45200000000001,18.94,yes,yes,yes,,,,,,,sacramento,mosquito
+660,W661,plate1,yes,Aug-68,8/19/08,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Antelope,,38.714,-121.37299999999999,18.34,yes,yes,yes,,,,,,,sacramento,mosquito
+661,W662,plate1,yes,Aug-59,8/20/08,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.51,-121.354,33.48,yes,yes,yes,,,,,,,sacramento,mosquito
+662,W663,plate1,yes,Sep-62,7/9/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Isleton,,38.107,-121.65,21.98,yes,yes,yes,,,,,,,sacramento,mosquito
+663,W664,plate1,yes,Sep-55,7/14/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Isleton,,38.162,-121.601,24.32,yes,yes,yes,,,,,,,sacramento,mosquito
+664,W665,plate1,yes,Sep-22,8/13/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.394,-121.44,22.06,yes,yes,yes,,,,,,,sacramento,mosquito
+665,W666,plate1,yes,Sep-85,8/18/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.61,-121.712,21.37,yes,yes,yes,,,,,,,yolo,mosquito
+666,W667,plate1,yes,Sep-60,8/20/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Galt,,38.251,-121.27600000000001,20.35,yes,yes,yes,,,,,,,sacramento,mosquito
+667,W668,plate1,yes,Sep-04,8/20/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.376999999999995,-121.21600000000001,19.03,yes,yes,yes,,,,,,,sacramento,mosquito
+668,W669,plate1,yes,Sep-38,9/9/09,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.426,-121.383,19.02,yes,yes,yes,,,,,,,sacramento,mosquito
+669,W670,plate1,yes,Oct-07,7/9/10,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Vineyard,,38.46,-121.35799999999999,16.6,yes,yes,yes,,,,,,,sacramento,mosquito
+670,W671,plate1,yes,Oct-99,7/13/10,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Vineyard,,38.46,-121.35799999999999,19.93,yes,yes,yes,,,,,,,sacramento,mosquito
+671,W672,plate1,yes,Oct-13,7/20/10,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Davis,,38.548,-121.85600000000001,19.83,yes,yes,yes,,,,,,,yolo,mosquito
+672,W673,plate1,yes,Oct-80,7/24/10,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Vineyard,,38.46,-121.325,20.22,yes,yes,yes,,,,,,,sacramento,mosquito
+673,W674,plate1,yes,Oct-95,9/28/10,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,El Macero,,38.54,-121.685,20.91,yes,yes,yes,,,,,,,yolo,mosquito
+674,W675,plate1,yes,Oct-23,10/5/10,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.51,-121.354,22.54,yes,yes,yes,,,,,,,sacramento,mosquito
+675,W676,plate1,yes,Oct-73,10/13/10,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.441,-121.425,17.51,yes,yes,yes,,,,,,,sacramento,mosquito
+676,W677,plate1,yes,Nov-00,7/22/11,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.385,-121.22399999999999,17.58,yes,yes,yes,,,,,,,sacramento,mosquito
+677,W678,plate1,yes,Nov-43,8/9/11,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.393,-121.169,17.26,yes,yes,yes,,,,,,,sacramento,mosquito
+678,W679,plate1,yes,Nov-65,8/18/11,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.455,-121.421,17.52,yes,yes,yes,,,,,,,sacramento,mosquito
+679,W680,plate1,yes,Nov-98,8/25/11,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Freeport,,38.427,-121.499,18.93,yes,yes,yes,,,,,,,sacramento,mosquito
+680,W681,plate1,yes,Nov-20,8/31/11,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.650999999999996,-121.44,18.96,yes,yes,yes,,,,,,,sacramento,mosquito
+681,W682,plate1,yes,Nov-70,9/8/11,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.385,-121.219,18.46,yes,yes,yes,,,,,,,sacramento,mosquito
+682,W683,plate1,yes,Nov-78,9/23/11,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Carmichael,,38.626,-121.33200000000001,23.25,yes,yes,yes,,,,,,,sacramento,mosquito
+683,W684,plate1,yes,12-1289,6/7/12,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.486999999999995,-121.26100000000001,20.63,yes,yes,yes,,,,,,,sacramento,mosquito
+684,W685,plate1,yes,12-1568,6/14/12,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Vineyard,,38.46,-121.325,23.53,yes,yes,yes,,,,,,,sacramento,mosquito
+685,W686,plate1,yes,12-1882,6/21/12,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Rosemont,,38.542,-121.37700000000001,18.61,yes,yes,yes,,,,,,,sacramento,mosquito
+686,W687,plate1,yes,Dec-74,7/3/12,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Clarksburg,,38.445,-121.583,20.61,yes,yes,yes,,,,,,,yolo,mosquito
+687,W688,plate1,yes,Dec-55,7/12/12,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Vintage Park,,38.466,-121.38,18.89,yes,yes,yes,,,,,,,sacramento,mosquito
+688,W689,plate1,yes,Dec-24,7/31/12,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.431,-121.325,19.23,yes,yes,yes,,,,,,,sacramento,mosquito
+689,W690,plate1,yes,Dec-95,8/24/12,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Citrus Heights,,38.674,-121.32,20.54,yes,yes,yes,,,,,,,sacramento,mosquito
+690,W691,plate1,yes,13-1478,6/21/13,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Citrus Heights,,38.716,-121.302,20.42,yes,yes,yes,,,,,,,sacramento,mosquito
+691,W692,plate1,yes,13-2872,7/16/13,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.417,-121.279,19.58,yes,yes,yes,,,,,,,sacramento,mosquito
+692,W693,plate1,yes,13-2917,7/16/13,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Zamora,,38.795,-121.87700000000001,19.85,yes,yes,yes,,,,,,,yolo,mosquito
+693,W694,plate1,yes,13-3154,7/19/13,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Galt,,38.275999999999996,-121.412,19.98,yes,yes,yes,,,,,,,sacramento,mosquito
+694,W695,plate1,yes,13-3312,7/23/13,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Monument Hills,,38.681,-121.868,20.58,yes,yes,yes,,,,,,,yolo,mosquito
+695,W696,plate1,yes,13-4355,8/16/13,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Zamora,,38.797,-121.882,20.47,yes,yes,yes,,,,,,,yolo,mosquito
+696,W697,plate1,yes,13-4581,8/23/13,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Herald,,38.288000000000004,-121.22,18.91,yes,yes,yes,,,,,,,sacramento,mosquito
+697,W698,plate1,yes,14-1817,6/24/14,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.441,-121.425,20.25,yes,yes,yes,,,,,,,sacramento,mosquito
+698,W699,plate1,yes,14-2180,7/1/14,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.478,-121.384,19.72,yes,yes,yes,,,,,,,sacramento,mosquito
+699,W700,plate1,yes,14-2313,7/3/14,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.455,-121.421,19.05,yes,yes,yes,,,,,,,sacramento,mosquito
+700,W701,plate1,yes,14-2791,7/10/14,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.385,-121.219,19.45,yes,yes,yes,,,,,,,sacramento,mosquito
+701,W702,plate1,yes,14-3447,7/24/14,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.448,-121.198,18.57,yes,yes,yes,,,,,,,sacramento,mosquito
+702,W703,plate1,yes,14-3539,7/24/14,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.619,-121.83,19,yes,yes,yes,,,,,,,yolo,mosquito
+703,W704,plate1,yes,14-3828,7/31/14,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Rancho Cordova,,38.568000000000005,-121.321,20.34,yes,yes,yes,,,,,,,sacramento,mosquito
+704,W705,plate1,yes,15-1801,7/7/15,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.418,-121.48100000000001,16.59,yes,yes,yes,,,,,,,sacramento,mosquito
+705,W706,plate1,yes,15-2319,7/16/15,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.619,-121.83,18.14,yes,yes,yes,,,,,,,yolo,mosquito
+706,W707,plate1,yes,15-2820,7/28/15,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.664,-121.764,17.6,yes,yes,yes,,,,,,,yolo,mosquito
+707,W708,plate1,yes,15-3084,7/31/15,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Dunnigan,,38.896,-121.976,18.52,yes,yes,yes,,,,,,,yolo,mosquito
+708,W709,plate1,yes,15-3543,8/6/15,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Dunnigan,,38.885,-121.969,18.91,yes,yes,yes,,,,,,,yolo,mosquito
+709,W710,plate1,yes,15-4253,8/20/15,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.808,-121.822,18.96,yes,yes,yes,,,,,,,yolo,mosquito
+710,W711,plate1,yes,15-5069,9/9/15,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.444,-121.29299999999999,18.27,yes,yes,yes,,,,,,,sacramento,mosquito
+711,W712,plate1,yes,16-1351,6/14/16,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Orangevale,,38.675,-121.241,18.73,yes,yes,yes,,,,,,,sacramento,mosquito
+712,W713,plate1,yes,16-2138,6/28/16,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.397,-121.375,16.66,yes,yes,yes,,,,,,,sacramento,mosquito
+713,W714,plate1,yes,16-3045,7/12/16,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Davis,,38.571,-121.751,16.58,yes,yes,yes,,,,,,,yolo,mosquito
+714,W715,plate2,yes,16-4064,7/26/16,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.51,-121.354,16.84,,,,,,,,,,sacramento,mosquito
+715,W716,plate2,yes,16-4421,7/29/16,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.698,-121.62100000000001,17.77,,,,,,,,,,sacramento,mosquito
+716,W717,plate2,yes,16-4896,8/5/16,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Woodland,,38.61,-121.712,17.53,,,,,,,,,,yolo,mosquito
+717,W718,plate2,yes,16-4984,8/9/16,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Wilton,,38.423,-121.214,16.55,,,,,,,,,,sacramento,mosquito
+718,W719,plate2,yes,17-3142,7/18/17,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.425,-121.383,16.9,,,,,,,,,,sacramento,mosquito
+719,W720,plate2,yes,17-3717,8/1/17,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Sacramento,,38.51,-121.354,17.83,,,,,,,,,,sacramento,mosquito
+720,W721,plate2,yes,17-3921,8/3/17,Culex tarsalis,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.334,-121.444,18.61,,,,,,,,,,sacramento,mosquito
+721,W722,plate2,yes,17-4230,8/8/17,Culex tarsalis,Pooled mosquitoes,,USA,CA,Yolo,Davis,,38.551,-121.689,17.54,,,,,,,,,,yolo,mosquito
+722,W723,plate2,yes,17-4809,8/22/17,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Florin,,38.489000000000004,-121.395,16.82,,,,,,,,,,sacramento,mosquito
+723,W724,plate2,yes,17-5589,9/6/17,Culex pipiens,Pooled mosquitoes,,USA,CA,Sacramento,Elk Grove,,38.361,-121.414,17.31,,,,,,,,,,sacramento,mosquito
+724,W725,plate2,yes,17-5884-1,9/12/17,Culex pipiens,Pooled mosquitoes,,USA,CA,Yolo,Sacramento,,38.543,-121.55,19.16,,,,,,,,,,yolo,mosquito
+725,W726,plate2,yes,17-5884-2,9/12/17,Culex pipiens,Pooled mosquitoes,,USA,CA,Yolo,Sacramento,,38.543,-121.55,19.31,,,,,,,,,,yolo,mosquito
+726,W727,plate2,yes,10-1274,7/2/10,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.43,-121.31299999999999,16.37,,,,,,,,,,sacramento,bird
+727,W728,plate2,yes,10-1381,7/9/10,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.702,-121.34100000000001,17.63,,,,,,,,,,sacramento,bird
+728,W729,plate2,yes,10-1396,7/9/10,Yellow-billed Magpie,Kidney Sample,,USA,CA,Sacramento,Sacramento,,38.535,-121.35799999999999,19.08,,,,,,,,,,sacramento,bird
+729,W730,plate2,yes,10-1871,8/2/10,American Crow,Oral Swab,,USA,CA,Sacramento,Carmichael,,38.631,-121.336,16.44,,,,,,,,,,sacramento,bird
+730,W731,plate2,yes,Oct-06,9/12/10,California Scrub-Jay,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.584,-121.449,20.81,,,,,,,,,,sacramento,bird
+731,W732,plate2,yes,Oct-78,9/17/10,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.419000000000004,-121.37899999999999,16.82,,,,,,,,,,sacramento,bird
+732,W733,plate2,yes,Oct-15,9/22/10,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.575,-121.478,13.92,,,,,,,,,,sacramento,bird
+733,W734,plate2,yes,Nov-08,8/18/11,American Crow,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.42,-121.375,17.2,,,,,,,,,,sacramento,bird
+734,W735,plate2,yes,Nov-41,8/20/11,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.426,-121.32600000000001,14.69,,,,,,,,,,sacramento,bird
+735,W736,plate2,yes,Nov-30,8/24/11,American Crow,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.418,-121.38799999999999,17.79,,,,,,,,,,sacramento,bird
+736,W737,plate2,yes,Nov-36,8/23/11,Northern Mockingbird,Brain Tissue,,USA,CA,Sacramento,Galt,,38.284,-121.292,17.27,,,,,,,,,,sacramento,bird
+737,W738,plate2,yes,Nov-17,8/29/11,American Crow,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.571,-121.49799999999999,17.27,,,,,,,,,,sacramento,bird
+738,W739,plate2,yes,Nov-37,9/2/11,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.431,-121.32799999999999,21.73,,,,,,,,,,sacramento,bird
+739,W740,plate2,yes,Nov-42,9/6/11,American Crow,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.42,-121.426,17.45,,,,,,,,,,sacramento,bird
+740,W741,plate2,yes,12-1098,5/28/12,American Crow,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.429,-121.374,9,,,,,,,,,,sacramento,bird
+741,W742,plate2,yes,12-1385,6/7/12,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.459,-121.32,13.32,,,,,,,,,,sacramento,bird
+742,W743,plate2,yes,12-1603,6/13/12,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.407,-121.37700000000001,15.12,,,,,,,,,,sacramento,bird
+743,W744,plate2,yes,12-1689,6/15/12,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.544000000000004,-121.35700000000001,10.37,,,,,,,,,,sacramento,bird
+744,W745,plate2,yes,Dec-95,6/23/12,American Crow,Oral Swab,,USA,CA,Sacramento,Wilton,,38.384,-121.26,15.72,,,,,,,,,,sacramento,bird
+745,W746,plate2,yes,Dec-36,6/28/12,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.436,-121.37700000000001,17.19,,,,,,,,,,sacramento,bird
+746,W747,plate2,yes,Dec-83,7/2/12,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.605,-121.39399999999999,13.23,,,,,,,,,,sacramento,bird
+747,W748,plate2,yes,13-1076,5/31/13,American Crow,Oral Swab,,USA,CA,Sacramento,Wilton,,38.394,-121.26299999999999,18.79,,,,,,,,,,sacramento,bird
+748,W749,plate2,yes,13-1802,7/2/13,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.501,-121.51,17.77,,,,,,,,,,sacramento,bird
+749,W750,plate2,yes,13-2182,7/16/13,California Scrub-Jay,Brain Tissue,,USA,CA,Yolo,Woodland,,38.674,-121.76899999999999,15.06,,,,,,,,,,yolo,bird
+750,W751,plate2,yes,13-2488,7/24/13,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Orangevale,,38.688,-121.20700000000001,17.48,,,,,,,,,,sacramento,bird
+751,W752,plate2,yes,13-2762,7/30/13,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.561,-121.495,16.8,,,,,,,,,,sacramento,bird
+752,W753,plate2,yes,13-3454,8/19/13,House Finch,Brain Tissue,,USA,CA,Yolo,Davis,,38.547,-121.70200000000001,14.34,,,,,,,,,,yolo,bird
+753,W754,plate2,yes,13-3965,9/18/13,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.606,-121.36,15.84,,,,,,,,,,sacramento,bird
+754,W755,plate2,yes,14-1032,6/15/14,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Carmichael,,38.592,-121.354,15.29,,,,,,,,,,sacramento,bird
+755,W756,plate2,yes,14-1931,7/10/14,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.431,-121.329,16.71,,,,,,,,,,sacramento,bird
+756,W757,plate2,yes,14-3236,8/12/14,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.438,-121.29299999999999,15.98,,,,,,,,,,sacramento,bird
+757,W758,plate2,yes,14-3960,9/4/14,American Crow,Oral Swab,,USA,CA,Sacramento,Citrus Heights,,38.701,-121.291,16.27,,,,,,,,,,sacramento,bird
+758,W759,plate2,yes,14-4042,9/7/14,American Crow,Oral Swab,,USA,CA,Sacramento,Fair Oaks,,38.649,-121.255,15.2,,,,,,,,,,sacramento,bird
+759,W760,plate2,yes,14-4162,9/11/14,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Fair Oaks,,38.64,-121.29,15.65,,,,,,,,,,sacramento,bird
+760,W761,plate2,yes,14-4470,9/26/14,American Crow,Oral Swab,,USA,CA,Yolo,Woodland,,38.696,-121.74799999999999,13.05,,,,,,,,,,yolo,bird
+761,W762,plate2,yes,15-1072,6/11/15,American Crow,Oral Swab,,USA,CA,Yolo,Davis,,38.563,-121.76899999999999,15.66,,,,,,,,,,yolo,bird
+762,W763,plate2,yes,15-1611,7/12/15,Barn Swallow,Brain Tissue,,USA,CA,Yolo,Davis,,38.544000000000004,-121.79700000000001,11.97,,,,,,,,,,yolo,bird
+763,W764,plate2,yes,15-1902,7/26/15,Yellow-billed Magpie,Brain Tissue,,USA,CA,Yolo,Davis,,38.556999999999995,-121.721,17.18,,,,,,,,,,yolo,bird
+764,W765,plate2,yes,15-2120,8/6/15,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Elk Grove,,38.442,-121.369,14.59,,,,,,,,,,sacramento,bird
+765,W766,plate2,yes,15-2268,8/12/15,American Crow,Oral Swab,,USA,CA,Yolo,Davis,,38.564,-121.745,14.83,,,,,,,,,,yolo,bird
+766,W767,plate2,yes,15-3233,9/24/15,Red-tailed Hawk,Brain Tissue,,USA,CA,Sacramento,Rancho Cordova,,38.546,-121.22399999999999,8.96,,,,,,,,,,sacramento,bird
+767,W768,plate2,yes,15-3418,10/4/15,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.588,-121.39299999999999,15.26,,,,,,,,,,sacramento,bird
+768,W769,plate2,yes,16-517,5/19/16,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.564,-121.363,10.8,,,,,,,,,,sacramento,bird
+769,W770,plate2,yes,16-1009,6/15/16,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Carmichael,,38.644,-121.324,13.69,,,,,,,,,,sacramento,bird
+770,W771,plate2,yes,16-1128,6/20/16,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.578,-121.385,12.99,,,,,,,,,,sacramento,bird
+771,W772,plate2,yes,16-1191,6/22/16,Brewer's Blackbird,Brain Tissue,,USA,CA,Sacramento,Fair Oaks,,38.653,-121.21799999999999,13.57,,,,,,,,,,sacramento,bird
+772,W773,plate2,yes,16-1454,6/30/16,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Rosemont,,38.543,-121.366,14.63,,,,,,,,,,sacramento,bird
+773,W774,plate2,yes,16-1668,7/10/16,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.553000000000004,-121.34700000000001,14.99,,,,,,,,,,sacramento,bird
+774,W775,plate2,yes,16-2190,7/28/16,American Crow,Oral Swab,,USA,CA,Yolo,Woodland,,38.669000000000004,-121.771,15.58,,,,,,,,,,yolo,bird
+775,W776,plate2,yes,17-431,5/23/17,American Crow,Oral Swab,,USA,CA,Sacramento,Sacramento,,38.55,-121.369,18.36,,,,,,,,,,sacramento,bird
+776,W777,plate2,yes,17-669,6/7/17,California Scrub-Jay,Brain Tissue,,USA,CA,Sacramento,Rosemont,,38.553000000000004,-121.37,12.42,,,,,,,,,,sacramento,bird
+777,W778,plate2,yes,17-1001,6/29/17,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.609,-121.39,14.11,,,,,,,,,,sacramento,bird
+778,W779,plate2,yes,17-1062,7/5/17,Yellow-billed Magpie,Brain Tissue,,USA,CA,Sacramento,Sacramento,,38.567,-121.4,19.26,,,,,,,,,,sacramento,bird
+779,W780,plate2,yes,17-1425,8/3/17,Western Bluebird,Brain Tissue,,USA,CA,Sacramento,Rancho Cordova,,38.594,-121.275,19.13,,,,,,,,,,sacramento,bird
+780,W781,plate2,yes,17-1836,9/8/17,American Crow,Oral Swab,,USA,CA,Sacramento,Elk Grove,,38.306,-121.40299999999999,22.55,,,,,,,,,,sacramento,bird
+781,W782,plate2,yes,17-1977,9/17/17,California Scrub-Jay,Brain Tissue,,USA,CA,Yolo,Davis,,38.556999999999995,-121.79,16.56,,,,,,,,,,yolo,bird
+782,W783,plate3,yes,Apr-84,9/7/04,Western Scrub-Jay,dead bird,,USA,CA,Sacramento,Elk Grove,,38.422,-121.38,14.5,,,,,,,,,,sacramento,bird
+783,W784,plate3,yes,Apr-62,8/30/04,Western Scrub-Jay,dead bird,,USA,CA,Sacramento,Rancho Cordova,,38.577,-121.29899999999999,18.3,,,,,,,,,,sacramento,bird
+784,W785,plate3,yes,Apr-14,8/12/04,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Wilton,,38.422,-121.20200000000001,15.7,,,,,,,,,,sacramento,bird
+785,W786,plate3,yes,Apr-90,8/26/04,Western Scrub-Jay,dead bird,,USA,CA,Sacramento,Sacramento,,38.459,-121.31200000000001,22.1,,,,,,,,,,sacramento,bird
+786,W787,plate3,yes,May-23,6/21/05,Western Scrub-Jay,dead bird,,USA,CA,Yolo,Davis,,38.538000000000004,-121.762,18.5,,,,,,,,,,yolo,bird
+787,W788,plate3,yes,May-69,7/6/05,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Sacramento,,38.607,-121.39399999999999,13.3,,,,,,,,,,sacramento,bird
+788,W789,plate3,yes,May-56,7/21/05,Northern Mockingbird,dead bird,,USA,CA,Sacramento,Elk Grove,,38.414,-121.406,12.7,,,,,,,,,,sacramento,bird
+789,W790,plate3,yes,May-60,7/21/05,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Elk Grove,,38.397,-121.37100000000001,35.7,,,,,,,,,,sacramento,bird
+790,W791,plate3,yes,May-36,8/1/05,House Finch,dead bird,,USA,CA,Sacramento,Elk Grove,,38.37,-121.49600000000001,18.8,,,,,,,,,,sacramento,bird
+791,W792,plate3,yes,May-79,8/3/05,American Crow,dead bird,,USA,CA,Yolo,Davis,,38.539,-121.714,16.1,,,,,,,,,,yolo,bird
+792,W793,plate3,yes,May-98,8/3/05,Black-crowned Night Heron,dead bird,,USA,CA,Yolo,Davis,,38.531,-121.777,26.5,,,,,,,,,,yolo,bird
+793,W794,plate3,yes,May-20,7/24/05,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Sacramento,,38.61,-121.389,15.2,,,,,,,,,,sacramento,bird
+794,W795,plate3,yes,May-43,7/25/05,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Sacramento,,38.61,-121.404,18.5,,,,,,,,,,sacramento,bird
+795,W796,plate3,yes,May-21,7/28/05,Western Scrub-Jay,dead bird,,USA,CA,Sacramento,Elk Grove,,38.433,-121.32799999999999,15.3,,,,,,,,,,sacramento,bird
+796,W797,plate3,yes,Jun-90,9/13/06,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Sacramento,,38.635,-121.46600000000001,33.9,,,,,,,,,,sacramento,bird
+797,W798,plate3,yes,Jun-58,9/14/06,Barn Owl,dead bird,,USA,CA,Yolo,Woodland,,38.73,-121.956,21.9,,,,,,,,,,yolo,bird
+798,W799,plate3,yes,Jun-46,6/21/06,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Elverta,,38.723,-121.45,18.1,,,,,,,,,,sacramento,bird
+799,W800,plate3,yes,Jun-05,7/11/06,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Antelope,,38.705,-121.37299999999999,20.8,,,,,,,,,,sacramento,bird
+800,W801,plate3,yes,Jun-41,7/4/06,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Elverta,,38.718,-121.406,18.5,,,,,,,,,,sacramento,bird
+801,W802,plate3,yes,Jul-19,7/9/07,California Scrub-Jay,dead bird,,USA,CA,Yolo,Davis,,38.56,-121.70299999999999,26.4,,,,,,,,,,yolo,bird
+802,W803,plate3,yes,Jul-86,7/13/07,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Wilton,,38.442,-121.197,13.6,,,,,,,,,,sacramento,bird
+803,W804,plate3,yes,Jul-47,7/12/07,Snowy Egret,dead bird,,USA,CA,Yolo,Woodland,,38.679,-121.742,16.5,,,,,,,,,,yolo,bird
+804,W805,plate3,yes,Jul-48,7/8/07,American Robin,dead bird,,USA,CA,Sacramento,Citrus Heights,,38.684,-121.324,18.9,,,,,,,,,,sacramento,bird
+805,W806,plate3,yes,Jul-53,7/24/07,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Sacramento,,38.698,-121.334,21.9,,,,,,,,,,sacramento,bird
+806,W807,plate3,yes,Jul-13,7/24/07,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Fair Oaks,,38.652,-121.258,18.5,,,,,,,,,,sacramento,bird
+807,W808,plate3,yes,Jul-54,7/24/07,House Finch,dead bird,,USA,CA,Sacramento,Citrus Heights,,38.693000000000005,-121.309,23.3,,,,,,,,,,sacramento,bird
+808,W809,plate3,yes,Jul-12,7/24/07,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Sacramento,,38.532,-121.51299999999999,18.3,,,,,,,,,,sacramento,bird
+809,W810,plate3,yes,08-216,3/5/08,American Crow,dead bird,,USA,CA,Sacramento,Herald,,38.314,-121.166,13.1,,,,,,,,,,sacramento,bird
+810,W811,plate3,yes,Aug-00,6/17/08,Common Raven,dead bird,,USA,CA,Sacramento,Sacramento,,38.485,-121.51,29,,,,,,,,,,sacramento,bird
+811,W812,plate3,yes,Aug-45,7/6/08,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Antelope,,38.72,-121.36200000000001,22.1,,,,,,,,,,sacramento,bird
+812,W813,plate3,yes,Aug-67,7/7/08,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Sacramento,,38.661,-121.34299999999999,15.1,,,,,,,,,,sacramento,bird
+813,W814,plate3,yes,Aug-22,7/8/08,American Robin,dead bird,,USA,CA,Sacramento,Sacramento,,38.504,-121.508,17.5,,,,,,,,,,sacramento,bird
+814,W815,plate3,yes,Aug-96,9/8/08,American Crow,dead bird,,USA,CA,Sacramento,Rancho Cordova,,38.607,-121.302,15.8,,,,,,,,,,sacramento,bird
+815,W816,plate3,yes,Aug-19,9/2/08,Yellow-billed Magpie,dead bird,,USA,CA,Yolo,Davis,,38.562,-121.714,15.3,,,,,,,,,,yolo,bird
+816,W817,plate3,yes,Sep-32,7/29/09,Yellow-billed Magpie,dead bird,,USA,CA,Sacramento,Sacramento,,38.464,-121.50200000000001,15,,,,,,,,,,sacramento,bird
+817,W818,plate3,yes,Sep-47,8/18/09,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Carmichael,,38.662,-121.311,30.2,,,,,,,,,,sacramento,bird
+818,W819,plate3,yes,Sep-79,8/20/09,Yellow-billed Magpie,dead bird,,USA,CA,Yolo,Davis,,38.55,-121.79299999999999,20.2,,,,,,,,,,yolo,bird
+819,W820,plate3,yes,Sep-31,9/4/09,American Robin,dead bird,,USA,CA,Sacramento,Antelope,,38.723,-121.391,14.7,,,,,,,,,,sacramento,bird
+820,W821,plate3,yes,Sep-73,9/27/09,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Wilton,,38.436,-121.22399999999999,18.6,,,,,,,,,,sacramento,bird
+821,W822,plate3,yes,Sep-37,10/2/09,California Scrub-Jay,dead bird,,USA,CA,Sacramento,Elk Grove,,38.407,-121.383,15.9,,,,,,,,,,sacramento,bird
+822,W823,plate3,yes,Sep-39,10/2/09,California Scrub-Jay,dead bird,,USA,CA,Yolo,Woodland,,38.659,-121.79799999999999,24.5,,,,,,,,,,yolo,bird

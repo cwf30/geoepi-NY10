@@ -1,0 +1,91 @@
+UID,accession,collection_date,isolation_source,isolation_taxa,city,county,state,latitude,longitude,pseudo_lat,pseudo_lat,data_source
+,MH170276,2001,,Corvus brachyrhynchos,,Dekalb,GA,,,,,PMID30457531
+,MH170275,2002,,Corvus brachyrhynchos,,Dekalb,GA,,,,,PMID30457531
+,MH170274,2002,,Cyanocitta cristata,,Fulton,GA,,,,,PMID30457531
+,MH170273,2001,,Corvus brachyrhynchos,,Lowndes,GA,,,,,PMID30457531
+,MH170272,2007,,Culex sp.,Garden City,Chatham,GA,,,,,PMID30457531
+,MH170271,2008,,Culex sp.,Decatur,Dekalb,GA,,,,,PMID30457531
+,MH170270,2004,,Corvus brachyrhynchos,,Henry,GA,,,,,PMID30457531
+,MH170269,2005,,Cyanocitta cristata,,Dekalb,GA,,,,,PMID30457531
+,MH170267,2007,,Cyanocitta cristata,Norcross,Gwinnett,GA,,,,,PMID30457531
+,MH170268,2007,,Cyanocitta cristata,Savannah,Chatham,GA,,,,,PMID30457531
+,MH170266,2007,,Culex quinquefasciatus,Atlanta,Fulton,GA,,,,,PMID30457531
+,MH170265,2004,,Culex quinquefasciatus,,Chattron,GA,,,,,PMID30457531
+,MH170264,2002,,Baeolophus bicolor,,Muscogee,GA,,,,,PMID30457531
+,MH170263,2001,,Cyanocitta cristata,,Wane,GA,,,,,PMID30457531
+,MH170262,2009,,Culex quinquefasciatus,Valdasta,Lowndes,GA,,,,,PMID30457531
+,MH170261,2008,,Culex quinquefasciatus,Decatur,Dekalb,GA,,,,,PMID30457531
+,MH170260,2009,,Culex quinquefasciatus,Atlanta,Fulton,GA,,,,,PMID30457531
+,MH170259,2009,,Culex quinquefasciatus,Atlanta,Fulton,GA,,,,,PMID30457531
+,MH170258,2007,,Culex quinquefasciatus,Garden City,Chatham,GA,,,,,PMID30457531
+,MH170257,2005,,Culex nigripalpus,,Lawnder,GA,,,,,PMID30457531
+,MH170256,2003,,Corvus brachyrhynchos,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH170255,2008,,Culex pipiens,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH170254,2003,,Spinus tristis,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH170253,2008,,Culex pipiens,Wellington,Larimer,CO,,,,,PMID30457531
+,MH170252,2007,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170251,2007,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170250,2008,,Culex tarsalis,Wellington,Larimer,CO,,,,,PMID30457531
+,MH170249,2006,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170248,2004,,Buteo jamaicensis,Wellington,Larimer,CO,,,,,PMID30457531
+,MH170247,2008,,Culex tarsalis,Wellington,Larimer,CO,,,,,PMID30457531
+,MH170246,2004,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170245,2008,,Culex tarsalis,Wellington,Larimer,CO,,,,,PMID30457531
+,MH170244,2007,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170243,2006,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170241,2007,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170240,2008,,Culex tarsalis,Wellington,Larimer,CO,,,,,PMID30457531
+,MH170239,2006,,Culex tarsalis,,Weld,CO,,,,,PMID30457531
+,MH170238,2003,,Turdus migratorius,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH170237,2003,,Culex pipiens,,Larimer,CO,,,,,PMID30457531
+,MH170236,2006,,,,Weld,CO,,,,,PMID30457531
+,MH170235,2006,,,,Weld,CO,,,,,PMID30457531
+,MH170234,2003,,Pica hudsonia,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH170233,2004,,Bubo virginianus,Loveland,Larimer,CO,,,,,PMID30457531
+,MH170232,2006,,,,Weld,CO,,,,,PMID30457531
+,MH170231,2003,,Spinus tristis,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH170230,2007,,,,Weld,CO,,,,,PMID30457531
+,MH170229,2006,,,,Weld,CO,,,,,PMID30457531
+,MH170228,2003,,Culex pipiens,,Larimer,CO,,,,,PMID30457531
+,MH170227,2004,,Culex tarsalis,,Larimer,CO,,,,,PMID30457531
+,MH170226,2003,,Turdus migratorius,Fort Collins,Larimer,CO,,,,,PMID30457531
+,MH166921,2008,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166920,2009,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166919,2004,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166918,2008,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166917,2004,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166916,2010,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166915,2002,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166914,2009,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166913,2004,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166912,2003,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166911,2002,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166910,2006,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166909,2009,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166908,2005,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166907,2006,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166906,2003,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166905,2002,bird,,,Norfolk,VA,,,,,PMID30457531
+,MH166904,2000,bird,,,Norfolk,VA,,,,,PMID30457531
+,MH166903,2000,bird,,,Norfolk,VA,,,,,PMID30457531
+,MH166902,2010,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166901,2000,bird,,,Norfolk,VA,,,,,PMID30457531
+,MH166900,2003,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166899,2002,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166898,2008,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166897,2010,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166896,2009,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166895,2005,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166894,2007,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166893,2010,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166892,2008,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166891,2007,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166890,2006,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166889,2006,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166888,2005,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166887,2002,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166886,2001,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166885,2009,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166884,2004,mosquito,,,Norfolk,VA,,,,,PMID30457531
+,MH166883,2002,bird,,,Norfolk,VA,,,,,PMID30457531
+,MH166882,2000,bird,,,Norfolk,VA,,,,,PMID30457531
