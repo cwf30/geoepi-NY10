@@ -60,7 +60,7 @@ read_config <- function(config_file) {
   return(config_list)
 }
 
-# Get the configuration file path from the user
+# Get the configuration file path
 cat("\nPlease enter the location of the configuration file: ")
 config_file <- readLines(file("stdin"), 1)
 
@@ -87,14 +87,11 @@ hpd_by_population <- list()
 F_times <- NULL  # To store the time points (same for all populations)
 
 # Dynamically determine the names based on the number of log files processed
-pop_names <- c("NY10", "WN02")  # Adjust or extend as necessary
-if (length(log_files) > length(pop_names)) {
-  pop_names <- c(pop_names, paste("Pop", (length(pop_names)+1):length(log_files), sep=""))
-}
+pop_names <- c("NY10", "WN02")  
 
 # Define the colors for the plot
-first_series_color <- "#7C1158"  # Specific color for the first series
-second_series_color <- "#11A579"  # Contrasting color for the second series
+first_series_color <- "#7C1158"  # NY10
+second_series_color <- "#11A579"  # WN02
 colors <- c(first_series_color, second_series_color)  
 
 # Function to process a single log file and plot its data with shaded uncertainty region

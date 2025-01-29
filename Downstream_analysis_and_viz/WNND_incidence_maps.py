@@ -30,7 +30,7 @@ df['fips'] = df['fips'].astype(str).str.zfill(5)
 # Merge the population data with the WNV case count data
 df = pd.merge(df, pop_df, on='fips', how='left')
 
-# Load your shapefile of US counties
+# Load shapefile of US counties
 gdf = gpd.read_file('/path/to/cb_2018_us_county_5m.shp')
 
 # Ensure the FIPS codes are properly formatted (as strings and zero-padded if necessary)
@@ -83,8 +83,6 @@ for year in range(2001, 2020+1):
     # Create a custom colormap that transitions through white at 0
     colors = ["blue", "white", "red"]
     custom_cmap = LinearSegmentedColormap.from_list("custom_coolwarm", colors, N=256)
-
-    # Continue with your existing code...
 
     # Plotting and color normalization
     fig, ax = plt.subplots(1, 1, figsize=(15, 10))

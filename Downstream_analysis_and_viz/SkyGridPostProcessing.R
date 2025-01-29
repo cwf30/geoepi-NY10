@@ -5,10 +5,10 @@ library(ggplot2)
 # Define colors for the populations
 colors <- c("#7C1158", "#11A579")  # Colors for the two lineages
 
-# Load your first MCC tree
+# Load first MCC tree
 NY10_tree <- read.nexus("/path/to/NY10_SkyGrid.tree")
 
-# Load your second MCC tree
+# Load second MCC tree
 WN02_tree <- read.nexus("/path/to/WN02_SkyGrid.tree")  
 
 # Run BNPR_PS for each tree
@@ -35,7 +35,7 @@ plot_data_WN02 <- data.frame(
 plot_data_NY10$year <- 2018.76 - plot_data_NY10$time
 plot_data_WN02$year <- 2018.74 - plot_data_WN02$time
 
-# Apply natural log transformation to effective population size values for both datasets
+# Apply log transformation to effective population size values for both datasets
 plot_data_NY10$log_effpopmean <- log(plot_data_NY10$effpopmean)
 plot_data_NY10$log_effpop025 <- log(plot_data_NY10$effpop025)
 plot_data_NY10$log_effpop975 <- log(plot_data_NY10$effpop975)
@@ -51,7 +51,7 @@ plot_data_WN02$group <- "WN02"
 # Combine the two datasets
 plot_data <- rbind(plot_data_NY10, plot_data_WN02)
 
-# Plot with custom legend labels
+# Plot
 ggplot() +
   # HPD interval as shaded area for each group
   geom_ribbon(data = plot_data, aes(x = year, ymin = log_effpop025, ymax = log_effpop975, fill = group), alpha = 0.2) +

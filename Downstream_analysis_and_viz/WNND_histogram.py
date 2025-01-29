@@ -35,7 +35,7 @@ wnv_filtered = wnv_df[wnv_df['year'].isin(years)]
 # 2. Geospatial Processing
 # =========================================
 
-# Load your shapefile of US counties
+# Load shapefile of US counties
 shapefile_path = '/path/to/cb_2018_us_county_5m.shp'
 gdf = gpd.read_file(shapefile_path)
 

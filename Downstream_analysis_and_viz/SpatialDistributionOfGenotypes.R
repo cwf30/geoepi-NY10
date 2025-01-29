@@ -154,4 +154,4 @@ ggplot() +
   )
 
 # Save the plot
-ggsave("/Users/cwcf/Documents/ORISE/data/viz/figures/wnv_pie_map.png", width = 16, height = 12, dpi = 300)
+ggsave("/path/to/wnv_pie_map.png", width = 16, height = 12, dpi = 300)
