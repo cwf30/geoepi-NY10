@@ -1,0 +1,26 @@
+schema_version: 1
+
+project_id: wnv-risk
+subproject_id: wnv-emergence-ny
+
+title: The emergence of NY10 insights into the 2012 West Nile Virus outbreak in the United States
+summary: >
+  Nextflow pipeline for processing WNV genomes for downstream analysis.
+
+lead:
+  name: Chad Fautt
+  github: cwf30
+
+status: complete
+current_focus: Results and manuscript published.
+
+repository:
+  canonical: geoepi/EmergenceOfNY10
+  upstream: null
+
+compute:
+  - Atlas
+
+next_milestone:
+  description: Complete
+  target: 2025-05-14
